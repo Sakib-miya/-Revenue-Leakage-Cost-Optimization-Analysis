@@ -1,0 +1,3001 @@
+customer_id,segment,acquisition_channel,join_date
+1,Low Value,Organic,2023-10-09
+2,Medium Value,Organic,2023-04-15
+3,Low Value,Social,2023-03-31
+4,Low Value,Organic,2023-04-06
+5,Medium Value,Paid Ads,2023-01-28
+6,Low Value,Email,2024-07-12
+7,Medium Value,Paid Ads,2023-10-12
+8,Low Value,Organic,2023-06-13
+9,Low Value,Paid Ads,2023-06-09
+10,Medium Value,Social,2023-04-15
+11,High Value,Organic,2023-12-19
+12,Low Value,Social,2024-04-15
+13,Low Value,Affiliate,2024-01-23
+14,High Value,Paid Ads,2024-01-06
+15,Low Value,Email,2023-02-16
+16,Low Value,Social,2023-03-23
+17,Bargain Hunter,Social,2024-01-25
+18,Medium Value,Email,2024-01-09
+19,Medium Value,Paid Ads,2023-10-01
+20,Low Value,Email,2023-03-15
+21,Low Value,Organic,2023-09-08
+22,Medium Value,Paid Ads,2024-07-24
+23,Medium Value,Paid Ads,2023-02-27
+24,Medium Value,Organic,2023-11-20
+25,Medium Value,Organic,2024-08-03
+26,Bargain Hunter,Paid Ads,2024-05-26
+27,Medium Value,Affiliate,2024-04-14
+28,High Value,Organic,2024-07-28
+29,Low Value,Email,2024-03-14
+30,Bargain Hunter,Paid Ads,2023-08-13
+31,Bargain Hunter,Organic,2024-05-20
+32,High Value,Organic,2023-04-23
+33,Medium Value,Organic,2024-03-08
+34,Low Value,Paid Ads,2024-04-24
+35,Low Value,Affiliate,2023-01-12
+36,Low Value,Organic,2024-07-03
+37,Low Value,Social,2023-12-15
+38,High Value,Paid Ads,2024-04-09
+39,High Value,Email,2023-09-27
+40,Bargain Hunter,Social,2024-06-03
+41,Bargain Hunter,Social,2023-11-02
+42,Low Value,Paid Ads,2023-07-23
+43,Medium Value,Social,2024-07-06
+44,Bargain Hunter,Affiliate,2023-01-01
+45,Low Value,Paid Ads,2023-04-25
+46,Bargain Hunter,Social,2023-11-11
+47,Medium Value,Organic,2024-08-03
+48,Bargain Hunter,Organic,2024-05-12
+49,Low Value,Affiliate,2024-06-29
+50,Low Value,Organic,2024-05-01
+51,Bargain Hunter,Organic,2024-06-24
+52,Bargain Hunter,Paid Ads,2023-08-05
+53,Bargain Hunter,Social,2023-07-25
+54,Low Value,Paid Ads,2024-01-18
+55,Medium Value,Paid Ads,2023-05-04
+56,Medium Value,Organic,2023-01-22
+57,Low Value,Organic,2023-08-14
+58,High Value,Email,2023-03-02
+59,Medium Value,Affiliate,2023-12-05
+60,High Value,Organic,2024-05-12
+61,Medium Value,Organic,2024-08-07
+62,Low Value,Organic,2024-04-29
+63,Low Value,Organic,2023-04-10
+64,Low Value,Paid Ads,2024-02-25
+65,Medium Value,Email,2023-04-11
+66,High Value,Email,2023-04-22
+67,Medium Value,Organic,2024-04-04
+68,High Value,Organic,2024-04-18
+69,Medium Value,Affiliate,2024-03-29
+70,Low Value,Social,2023-04-11
+71,High Value,Affiliate,2023-01-16
+72,Bargain Hunter,Affiliate,2023-08-31
+73,Medium Value,Paid Ads,2023-08-07
+74,Bargain Hunter,Affiliate,2023-06-18
+75,Medium Value,Affiliate,2023-09-29
+76,Bargain Hunter,Social,2023-10-20
+77,Medium Value,Affiliate,2024-07-23
+78,Low Value,Paid Ads,2023-07-14
+79,Medium Value,Affiliate,2024-08-16
+80,Low Value,Organic,2023-11-18
+81,High Value,Email,2024-05-29
+82,Bargain Hunter,Paid Ads,2023-02-28
+83,Bargain Hunter,Organic,2023-07-10
+84,High Value,Organic,2023-08-29
+85,Medium Value,Affiliate,2024-08-06
+86,Medium Value,Email,2023-03-25
+87,Medium Value,Email,2024-06-19
+88,Medium Value,Paid Ads,2023-11-18
+89,Medium Value,Paid Ads,2023-11-04
+90,Medium Value,Affiliate,2023-03-16
+91,High Value,Email,2024-07-30
+92,Bargain Hunter,Organic,2023-08-07
+93,Low Value,Organic,2023-12-24
+94,Bargain Hunter,Social,2024-01-14
+95,Medium Value,Paid Ads,2024-07-10
+96,Low Value,Email,2024-06-25
+97,High Value,Social,2023-11-03
+98,Bargain Hunter,Organic,2023-05-18
+99,Medium Value,Social,2024-07-20
+100,Medium Value,Paid Ads,2023-08-04
+101,Low Value,Organic,2023-09-28
+102,Low Value,Paid Ads,2023-02-22
+103,High Value,Paid Ads,2023-10-11
+104,High Value,Paid Ads,2023-05-14
+105,Low Value,Paid Ads,2024-03-28
+106,Low Value,Paid Ads,2023-01-10
+107,High Value,Affiliate,2023-06-02
+108,Low Value,Social,2024-08-19
+109,Low Value,Paid Ads,2023-02-12
+110,Medium Value,Social,2023-02-10
+111,Bargain Hunter,Organic,2023-09-13
+112,Low Value,Paid Ads,2024-07-27
+113,Bargain Hunter,Paid Ads,2023-06-08
+114,Bargain Hunter,Organic,2023-06-16
+115,Bargain Hunter,Social,2024-02-27
+116,High Value,Email,2023-12-07
+117,Low Value,Paid Ads,2023-09-12
+118,Medium Value,Social,2023-04-21
+119,Medium Value,Organic,2024-04-26
+120,Medium Value,Social,2024-04-16
+121,Medium Value,Social,2023-08-22
+122,Medium Value,Email,2024-02-13
+123,Medium Value,Social,2023-10-13
+124,Medium Value,Paid Ads,2024-07-03
+125,Medium Value,Organic,2023-09-25
+126,Medium Value,Affiliate,2023-09-29
+127,High Value,Email,2023-12-20
+128,Low Value,Paid Ads,2024-06-07
+129,High Value,Social,2023-07-14
+130,Medium Value,Email,2023-01-02
+131,Low Value,Social,2023-07-21
+132,Medium Value,Organic,2023-12-05
+133,Low Value,Email,2023-05-08
+134,Low Value,Paid Ads,2023-11-13
+135,Low Value,Paid Ads,2023-10-30
+136,Low Value,Organic,2024-01-24
+137,Low Value,Affiliate,2024-08-05
+138,Medium Value,Paid Ads,2023-01-01
+139,Medium Value,Organic,2024-08-16
+140,Low Value,Paid Ads,2024-03-28
+141,Medium Value,Organic,2024-04-29
+142,Low Value,Affiliate,2023-06-23
+143,Low Value,Paid Ads,2023-12-10
+144,High Value,Affiliate,2023-08-29
+145,Low Value,Organic,2023-07-23
+146,High Value,Organic,2024-05-01
+147,Low Value,Social,2024-04-11
+148,Medium Value,Email,2023-07-19
+149,Low Value,Paid Ads,2024-02-14
+150,Medium Value,Email,2023-01-06
+151,Bargain Hunter,Social,2023-04-20
+152,Low Value,Organic,2024-06-14
+153,Medium Value,Email,2023-05-05
+154,Medium Value,Social,2024-06-27
+155,Bargain Hunter,Email,2024-03-29
+156,Low Value,Email,2024-05-31
+157,Medium Value,Affiliate,2024-04-01
+158,Bargain Hunter,Email,2024-05-01
+159,Medium Value,Social,2023-10-11
+160,Low Value,Paid Ads,2023-09-02
+161,Medium Value,Organic,2023-10-20
+162,Medium Value,Paid Ads,2024-07-07
+163,High Value,Organic,2024-01-28
+164,Low Value,Email,2023-03-07
+165,Medium Value,Paid Ads,2024-04-22
+166,Medium Value,Organic,2024-03-06
+167,Medium Value,Social,2023-01-21
+168,Bargain Hunter,Social,2024-01-25
+169,Medium Value,Affiliate,2023-11-02
+170,Low Value,Social,2024-03-05
+171,Low Value,Email,2023-08-14
+172,Medium Value,Paid Ads,2024-05-12
+173,High Value,Paid Ads,2024-02-19
+174,Low Value,Social,2023-05-11
+175,Bargain Hunter,Paid Ads,2024-02-08
+176,Low Value,Email,2023-03-27
+177,Low Value,Organic,2024-04-17
+178,Medium Value,Paid Ads,2023-12-02
+179,Medium Value,Paid Ads,2024-01-24
+180,Medium Value,Affiliate,2024-03-07
+181,Medium Value,Organic,2023-01-20
+182,Low Value,Organic,2023-12-25
+183,Medium Value,Organic,2023-02-11
+184,Low Value,Affiliate,2023-07-24
+185,Low Value,Email,2023-09-02
+186,High Value,Email,2024-07-31
+187,Bargain Hunter,Paid Ads,2023-09-20
+188,Low Value,Organic,2023-04-28
+189,Low Value,Organic,2023-11-15
+190,High Value,Organic,2023-11-16
+191,Low Value,Affiliate,2024-01-20
+192,Medium Value,Email,2023-03-19
+193,Low Value,Social,2023-09-06
+194,High Value,Social,2023-05-04
+195,Low Value,Email,2023-02-12
+196,Medium Value,Paid Ads,2024-01-15
+197,High Value,Email,2023-01-13
+198,Low Value,Social,2023-04-19
+199,Medium Value,Paid Ads,2024-04-15
+200,Low Value,Paid Ads,2024-06-18
+201,Bargain Hunter,Paid Ads,2024-07-05
+202,Low Value,Paid Ads,2023-10-02
+203,Medium Value,Organic,2023-03-30
+204,Medium Value,Paid Ads,2024-04-20
+205,Low Value,Email,2023-12-11
+206,High Value,Social,2023-07-06
+207,Medium Value,Paid Ads,2023-09-22
+208,Medium Value,Social,2023-10-10
+209,Low Value,Paid Ads,2023-07-15
+210,High Value,Email,2024-05-15
+211,Low Value,Organic,2024-05-02
+212,Low Value,Paid Ads,2023-01-18
+213,High Value,Organic,2023-09-07
+214,Medium Value,Email,2024-04-29
+215,Low Value,Paid Ads,2024-07-17
+216,Medium Value,Email,2023-10-05
+217,Medium Value,Organic,2023-07-17
+218,Medium Value,Email,2023-07-09
+219,Medium Value,Email,2023-10-11
+220,Low Value,Affiliate,2024-06-21
+221,Low Value,Affiliate,2023-07-18
+222,Medium Value,Paid Ads,2023-11-06
+223,High Value,Paid Ads,2023-10-08
+224,High Value,Organic,2023-10-27
+225,Low Value,Organic,2024-05-17
+226,High Value,Organic,2023-10-19
+227,Medium Value,Paid Ads,2023-07-08
+228,Bargain Hunter,Paid Ads,2024-05-04
+229,High Value,Organic,2024-05-18
+230,High Value,Email,2023-02-24
+231,Medium Value,Social,2023-11-08
+232,High Value,Organic,2024-07-25
+233,Low Value,Email,2023-08-20
+234,Low Value,Paid Ads,2024-03-29
+235,Medium Value,Email,2024-03-15
+236,Medium Value,Email,2023-04-12
+237,Bargain Hunter,Organic,2023-08-05
+238,Medium Value,Organic,2023-09-03
+239,Medium Value,Organic,2023-01-03
+240,Medium Value,Email,2024-04-26
+241,Medium Value,Organic,2023-10-17
+242,Low Value,Paid Ads,2023-08-28
+243,Bargain Hunter,Social,2023-07-22
+244,Medium Value,Paid Ads,2023-06-02
+245,Bargain Hunter,Social,2023-03-15
+246,High Value,Social,2024-08-05
+247,Bargain Hunter,Paid Ads,2024-04-24
+248,Low Value,Email,2023-10-06
+249,Low Value,Paid Ads,2023-03-24
+250,Low Value,Social,2023-11-27
+251,Low Value,Organic,2023-08-23
+252,Bargain Hunter,Social,2024-08-12
+253,Low Value,Organic,2023-10-03
+254,Low Value,Social,2023-06-29
+255,Medium Value,Email,2023-10-12
+256,Medium Value,Email,2024-05-18
+257,Bargain Hunter,Paid Ads,2024-02-23
+258,Medium Value,Email,2023-06-14
+259,Medium Value,Email,2023-10-23
+260,Low Value,Paid Ads,2024-07-17
+261,High Value,Organic,2023-09-16
+262,Medium Value,Affiliate,2024-02-18
+263,Bargain Hunter,Social,2023-01-02
+264,Low Value,Paid Ads,2024-02-28
+265,High Value,Paid Ads,2024-05-25
+266,Low Value,Social,2023-07-28
+267,Medium Value,Organic,2023-10-22
+268,Medium Value,Email,2023-05-05
+269,High Value,Email,2023-09-03
+270,Low Value,Paid Ads,2023-01-15
+271,Low Value,Organic,2023-04-27
+272,Medium Value,Organic,2023-06-07
+273,Medium Value,Email,2024-06-05
+274,Low Value,Paid Ads,2024-05-09
+275,Bargain Hunter,Organic,2024-07-18
+276,High Value,Organic,2024-06-04
+277,Low Value,Organic,2023-03-13
+278,Medium Value,Social,2024-02-29
+279,Medium Value,Social,2023-10-01
+280,Low Value,Paid Ads,2023-11-02
+281,Low Value,Email,2024-05-16
+282,Bargain Hunter,Paid Ads,2024-05-10
+283,Medium Value,Email,2024-07-10
+284,Medium Value,Affiliate,2023-07-13
+285,Bargain Hunter,Organic,2024-01-28
+286,Medium Value,Social,2023-02-14
+287,Medium Value,Paid Ads,2024-01-26
+288,Medium Value,Email,2023-06-05
+289,Medium Value,Organic,2024-05-29
+290,Bargain Hunter,Paid Ads,2023-04-13
+291,Bargain Hunter,Paid Ads,2024-06-22
+292,Bargain Hunter,Organic,2023-05-28
+293,Medium Value,Email,2023-06-08
+294,High Value,Social,2023-09-29
+295,Medium Value,Email,2023-03-24
+296,Bargain Hunter,Social,2024-06-30
+297,Medium Value,Paid Ads,2024-05-14
+298,Bargain Hunter,Organic,2023-03-12
+299,Medium Value,Email,2023-10-22
+300,Bargain Hunter,Email,2024-03-20
+301,Bargain Hunter,Social,2023-04-13
+302,Medium Value,Email,2023-01-30
+303,High Value,Social,2023-10-28
+304,Medium Value,Paid Ads,2023-09-08
+305,Low Value,Email,2023-07-04
+306,Medium Value,Organic,2024-01-27
+307,Low Value,Organic,2024-08-20
+308,High Value,Paid Ads,2023-09-18
+309,Medium Value,Email,2024-04-21
+310,Bargain Hunter,Email,2023-06-11
+311,High Value,Affiliate,2023-11-03
+312,Low Value,Paid Ads,2023-09-14
+313,Medium Value,Paid Ads,2024-01-29
+314,Bargain Hunter,Organic,2024-01-26
+315,Low Value,Email,2023-10-30
+316,High Value,Social,2024-02-10
+317,Medium Value,Email,2023-02-20
+318,Bargain Hunter,Email,2023-10-21
+319,Low Value,Organic,2023-12-27
+320,Medium Value,Organic,2023-09-14
+321,Low Value,Email,2023-05-21
+322,Low Value,Affiliate,2023-02-10
+323,Medium Value,Paid Ads,2024-08-16
+324,Medium Value,Organic,2023-10-30
+325,Medium Value,Paid Ads,2023-07-25
+326,High Value,Paid Ads,2024-01-10
+327,Low Value,Affiliate,2023-06-18
+328,Medium Value,Social,2024-05-08
+329,Bargain Hunter,Paid Ads,2023-12-13
+330,Low Value,Paid Ads,2023-03-19
+331,High Value,Affiliate,2024-02-11
+332,Bargain Hunter,Social,2024-01-10
+333,High Value,Paid Ads,2023-09-28
+334,Low Value,Paid Ads,2023-09-26
+335,Low Value,Social,2024-01-16
+336,High Value,Organic,2023-01-26
+337,Low Value,Affiliate,2023-12-02
+338,Bargain Hunter,Organic,2023-03-06
+339,Low Value,Paid Ads,2023-11-06
+340,Low Value,Organic,2023-02-16
+341,Bargain Hunter,Paid Ads,2024-05-19
+342,High Value,Organic,2024-07-04
+343,High Value,Paid Ads,2024-07-07
+344,Medium Value,Email,2023-06-08
+345,Bargain Hunter,Email,2024-05-16
+346,Low Value,Affiliate,2023-10-14
+347,High Value,Paid Ads,2024-03-30
+348,Medium Value,Organic,2024-01-07
+349,High Value,Email,2024-07-11
+350,Bargain Hunter,Email,2023-03-04
+351,Medium Value,Organic,2023-05-06
+352,Bargain Hunter,Social,2023-04-04
+353,Low Value,Email,2023-01-22
+354,High Value,Paid Ads,2023-05-09
+355,Low Value,Organic,2024-07-21
+356,Medium Value,Organic,2023-08-27
+357,Medium Value,Organic,2023-01-03
+358,Medium Value,Affiliate,2023-05-14
+359,Low Value,Social,2023-04-23
+360,Low Value,Organic,2023-01-16
+361,Medium Value,Social,2023-11-28
+362,High Value,Paid Ads,2023-05-10
+363,Low Value,Paid Ads,2023-03-07
+364,Medium Value,Social,2024-06-09
+365,Low Value,Paid Ads,2023-08-15
+366,Bargain Hunter,Organic,2024-06-17
+367,Medium Value,Email,2023-02-01
+368,High Value,Paid Ads,2024-02-16
+369,Medium Value,Organic,2024-03-30
+370,High Value,Organic,2023-06-01
+371,High Value,Paid Ads,2024-08-22
+372,Low Value,Paid Ads,2024-06-27
+373,Medium Value,Paid Ads,2024-03-16
+374,High Value,Email,2024-07-18
+375,Low Value,Organic,2024-04-07
+376,Bargain Hunter,Paid Ads,2024-04-09
+377,Medium Value,Email,2023-11-17
+378,Medium Value,Email,2024-01-19
+379,Bargain Hunter,Email,2024-04-30
+380,High Value,Social,2023-04-06
+381,Medium Value,Email,2024-01-17
+382,Low Value,Email,2024-08-23
+383,Bargain Hunter,Email,2023-05-06
+384,Medium Value,Social,2024-03-09
+385,Bargain Hunter,Email,2023-10-22
+386,Low Value,Paid Ads,2024-08-14
+387,Low Value,Organic,2024-05-08
+388,Medium Value,Organic,2024-07-23
+389,Medium Value,Social,2024-08-10
+390,Medium Value,Paid Ads,2024-07-28
+391,Bargain Hunter,Social,2024-07-24
+392,High Value,Affiliate,2023-10-01
+393,High Value,Paid Ads,2023-11-13
+394,Bargain Hunter,Paid Ads,2023-07-05
+395,Bargain Hunter,Email,2024-02-15
+396,High Value,Email,2023-02-01
+397,High Value,Paid Ads,2024-01-21
+398,Medium Value,Paid Ads,2024-01-14
+399,Medium Value,Paid Ads,2024-08-04
+400,Low Value,Social,2023-06-09
+401,Medium Value,Email,2023-03-25
+402,Medium Value,Email,2024-05-12
+403,Low Value,Paid Ads,2023-08-09
+404,Low Value,Organic,2024-03-16
+405,High Value,Email,2024-05-13
+406,Low Value,Paid Ads,2023-08-14
+407,Medium Value,Email,2023-01-08
+408,Medium Value,Affiliate,2023-05-21
+409,Low Value,Paid Ads,2023-05-03
+410,High Value,Email,2023-06-29
+411,High Value,Paid Ads,2023-08-24
+412,Low Value,Social,2023-12-29
+413,High Value,Social,2023-02-13
+414,Medium Value,Paid Ads,2023-03-21
+415,Bargain Hunter,Email,2024-08-10
+416,Medium Value,Email,2023-10-24
+417,High Value,Organic,2023-11-29
+418,Medium Value,Affiliate,2024-04-16
+419,Low Value,Affiliate,2023-04-01
+420,Medium Value,Organic,2024-03-22
+421,Low Value,Paid Ads,2024-02-10
+422,Bargain Hunter,Email,2023-08-15
+423,Medium Value,Organic,2024-06-06
+424,Low Value,Paid Ads,2023-07-18
+425,Bargain Hunter,Paid Ads,2023-06-01
+426,Medium Value,Organic,2023-07-22
+427,Medium Value,Organic,2023-03-19
+428,Medium Value,Social,2024-05-20
+429,Medium Value,Email,2024-08-16
+430,Medium Value,Affiliate,2024-08-01
+431,Low Value,Affiliate,2023-11-27
+432,Bargain Hunter,Email,2023-06-04
+433,Medium Value,Paid Ads,2023-11-07
+434,Low Value,Email,2023-12-27
+435,Low Value,Paid Ads,2024-04-07
+436,High Value,Paid Ads,2023-10-21
+437,High Value,Social,2023-04-03
+438,Low Value,Paid Ads,2024-04-18
+439,Low Value,Affiliate,2023-02-12
+440,Medium Value,Social,2023-07-12
+441,Medium Value,Paid Ads,2023-06-04
+442,Bargain Hunter,Paid Ads,2023-12-18
+443,Bargain Hunter,Organic,2023-06-26
+444,High Value,Email,2024-03-25
+445,Low Value,Email,2024-01-08
+446,Medium Value,Paid Ads,2024-02-23
+447,Low Value,Email,2023-02-23
+448,Low Value,Email,2023-03-09
+449,Medium Value,Email,2024-01-31
+450,Medium Value,Email,2023-06-03
+451,Medium Value,Email,2023-05-25
+452,Bargain Hunter,Paid Ads,2024-02-06
+453,High Value,Email,2023-03-28
+454,Medium Value,Paid Ads,2023-12-03
+455,Low Value,Email,2024-06-23
+456,High Value,Email,2024-06-04
+457,Medium Value,Paid Ads,2023-07-04
+458,Bargain Hunter,Paid Ads,2024-05-12
+459,Medium Value,Affiliate,2023-06-08
+460,High Value,Social,2023-04-14
+461,Low Value,Paid Ads,2024-06-23
+462,High Value,Paid Ads,2023-05-15
+463,Low Value,Organic,2023-07-05
+464,Low Value,Social,2023-06-19
+465,Low Value,Organic,2024-01-09
+466,Low Value,Organic,2024-03-30
+467,Low Value,Social,2024-04-04
+468,Medium Value,Organic,2024-04-25
+469,Bargain Hunter,Organic,2024-08-07
+470,Bargain Hunter,Paid Ads,2023-10-16
+471,Low Value,Paid Ads,2024-03-04
+472,Bargain Hunter,Social,2023-05-22
+473,Bargain Hunter,Organic,2024-05-07
+474,Bargain Hunter,Email,2023-04-16
+475,Low Value,Paid Ads,2023-05-08
+476,Medium Value,Social,2023-10-07
+477,Medium Value,Paid Ads,2024-03-23
+478,High Value,Affiliate,2024-04-06
+479,Bargain Hunter,Affiliate,2024-02-29
+480,High Value,Paid Ads,2023-08-30
+481,Medium Value,Organic,2023-08-18
+482,High Value,Affiliate,2023-12-10
+483,Low Value,Organic,2023-10-21
+484,Bargain Hunter,Paid Ads,2023-05-23
+485,Low Value,Paid Ads,2023-01-06
+486,Bargain Hunter,Organic,2023-08-09
+487,Low Value,Paid Ads,2024-06-24
+488,Medium Value,Social,2023-09-01
+489,Medium Value,Organic,2024-03-05
+490,Low Value,Email,2023-03-06
+491,High Value,Affiliate,2024-07-02
+492,High Value,Paid Ads,2023-09-05
+493,Low Value,Paid Ads,2023-01-02
+494,Low Value,Organic,2024-03-02
+495,Medium Value,Email,2024-06-20
+496,Bargain Hunter,Organic,2024-06-22
+497,Low Value,Social,2024-06-03
+498,Low Value,Paid Ads,2024-04-26
+499,High Value,Paid Ads,2024-01-18
+500,Medium Value,Organic,2023-03-11
+501,Medium Value,Email,2023-04-17
+502,Low Value,Email,2023-12-07
+503,High Value,Paid Ads,2023-12-13
+504,Low Value,Organic,2024-04-20
+505,Bargain Hunter,Paid Ads,2023-07-06
+506,Low Value,Organic,2024-04-13
+507,High Value,Organic,2023-07-24
+508,Bargain Hunter,Paid Ads,2023-11-14
+509,Low Value,Affiliate,2024-07-10
+510,Medium Value,Organic,2023-07-15
+511,Medium Value,Social,2023-02-18
+512,Bargain Hunter,Paid Ads,2023-05-08
+513,Low Value,Paid Ads,2024-02-14
+514,Low Value,Social,2024-01-31
+515,Medium Value,Organic,2024-05-24
+516,Medium Value,Social,2023-10-01
+517,Low Value,Email,2023-03-22
+518,Medium Value,Affiliate,2023-07-04
+519,Low Value,Paid Ads,2023-03-23
+520,Medium Value,Paid Ads,2024-04-01
+521,Low Value,Paid Ads,2024-03-30
+522,Medium Value,Organic,2023-12-28
+523,Low Value,Paid Ads,2023-02-28
+524,High Value,Email,2024-01-08
+525,Low Value,Email,2023-06-13
+526,Bargain Hunter,Organic,2024-03-24
+527,High Value,Organic,2024-01-11
+528,Medium Value,Affiliate,2023-02-03
+529,Low Value,Email,2024-01-15
+530,Medium Value,Social,2024-08-10
+531,High Value,Paid Ads,2023-11-18
+532,Low Value,Organic,2023-04-27
+533,High Value,Organic,2024-06-14
+534,Medium Value,Email,2023-09-26
+535,Low Value,Email,2023-08-08
+536,Bargain Hunter,Paid Ads,2024-05-17
+537,Medium Value,Organic,2023-03-17
+538,Medium Value,Social,2024-03-31
+539,Bargain Hunter,Social,2023-11-24
+540,Low Value,Email,2024-07-17
+541,Low Value,Social,2023-06-11
+542,Low Value,Affiliate,2023-06-28
+543,Low Value,Paid Ads,2023-05-05
+544,Bargain Hunter,Social,2023-08-31
+545,Low Value,Organic,2024-07-21
+546,Low Value,Paid Ads,2024-07-18
+547,High Value,Social,2023-03-09
+548,Medium Value,Affiliate,2024-05-05
+549,Low Value,Social,2024-08-11
+550,High Value,Affiliate,2023-03-17
+551,Medium Value,Email,2023-12-19
+552,High Value,Social,2024-07-18
+553,Low Value,Organic,2023-05-13
+554,Medium Value,Affiliate,2023-02-26
+555,Low Value,Paid Ads,2023-11-08
+556,Medium Value,Paid Ads,2023-08-19
+557,Medium Value,Affiliate,2023-10-18
+558,Low Value,Paid Ads,2024-07-18
+559,Medium Value,Email,2024-06-30
+560,High Value,Email,2024-08-17
+561,Medium Value,Email,2023-12-12
+562,Low Value,Email,2023-01-30
+563,High Value,Affiliate,2024-08-13
+564,Medium Value,Organic,2024-08-08
+565,Medium Value,Email,2024-05-24
+566,Bargain Hunter,Paid Ads,2023-11-06
+567,Medium Value,Social,2024-02-20
+568,Medium Value,Organic,2023-03-03
+569,Medium Value,Paid Ads,2024-04-20
+570,Medium Value,Email,2023-11-17
+571,Bargain Hunter,Paid Ads,2023-12-20
+572,Bargain Hunter,Organic,2024-01-15
+573,Low Value,Organic,2023-09-05
+574,Medium Value,Paid Ads,2023-09-11
+575,High Value,Organic,2024-01-29
+576,Bargain Hunter,Paid Ads,2023-06-13
+577,Low Value,Affiliate,2023-11-17
+578,Medium Value,Organic,2024-06-11
+579,Medium Value,Social,2024-05-24
+580,High Value,Affiliate,2024-06-01
+581,Medium Value,Organic,2024-08-20
+582,Medium Value,Organic,2024-05-21
+583,Low Value,Social,2024-04-26
+584,Medium Value,Organic,2023-04-21
+585,Medium Value,Social,2024-01-10
+586,Low Value,Paid Ads,2024-02-15
+587,High Value,Email,2024-01-07
+588,Low Value,Organic,2024-05-31
+589,Medium Value,Paid Ads,2023-05-02
+590,High Value,Organic,2024-01-18
+591,Low Value,Paid Ads,2024-01-10
+592,Low Value,Organic,2024-06-05
+593,Medium Value,Organic,2023-02-09
+594,High Value,Paid Ads,2024-04-30
+595,Low Value,Organic,2024-06-11
+596,High Value,Affiliate,2023-11-23
+597,Medium Value,Affiliate,2023-11-03
+598,Low Value,Paid Ads,2024-06-05
+599,Low Value,Email,2023-11-03
+600,Medium Value,Organic,2023-12-06
+601,Low Value,Affiliate,2024-08-20
+602,Medium Value,Social,2023-01-28
+603,Low Value,Paid Ads,2024-08-15
+604,Low Value,Email,2024-08-20
+605,Medium Value,Paid Ads,2024-01-25
+606,High Value,Email,2023-02-02
+607,Low Value,Email,2023-07-15
+608,High Value,Paid Ads,2023-06-05
+609,Medium Value,Organic,2024-05-28
+610,Low Value,Affiliate,2023-03-05
+611,Low Value,Paid Ads,2024-07-28
+612,Medium Value,Email,2024-06-22
+613,Medium Value,Affiliate,2024-04-15
+614,Bargain Hunter,Paid Ads,2023-12-29
+615,Low Value,Social,2023-09-28
+616,Low Value,Organic,2023-09-10
+617,Medium Value,Paid Ads,2023-11-01
+618,Low Value,Email,2024-05-15
+619,Medium Value,Paid Ads,2023-10-08
+620,Medium Value,Email,2024-07-10
+621,Medium Value,Affiliate,2023-12-20
+622,Bargain Hunter,Social,2023-10-25
+623,High Value,Affiliate,2023-03-22
+624,Medium Value,Paid Ads,2023-09-20
+625,Low Value,Organic,2024-07-05
+626,Medium Value,Email,2023-10-06
+627,High Value,Email,2024-08-23
+628,Medium Value,Organic,2024-06-27
+629,Medium Value,Organic,2023-04-13
+630,Medium Value,Email,2023-04-13
+631,Low Value,Organic,2024-07-17
+632,Bargain Hunter,Organic,2024-05-02
+633,Medium Value,Organic,2023-10-22
+634,Medium Value,Email,2023-04-02
+635,Low Value,Organic,2023-02-08
+636,Bargain Hunter,Organic,2023-06-30
+637,Bargain Hunter,Organic,2024-02-11
+638,Low Value,Organic,2023-10-24
+639,Bargain Hunter,Organic,2024-08-04
+640,Low Value,Affiliate,2023-12-10
+641,Medium Value,Affiliate,2024-07-10
+642,Low Value,Social,2023-05-18
+643,Bargain Hunter,Paid Ads,2023-07-17
+644,Low Value,Paid Ads,2024-04-14
+645,Low Value,Email,2023-01-15
+646,Low Value,Social,2024-08-04
+647,Low Value,Organic,2024-02-20
+648,Low Value,Paid Ads,2023-03-30
+649,Medium Value,Organic,2023-05-24
+650,Medium Value,Affiliate,2023-01-07
+651,Medium Value,Organic,2023-10-01
+652,Bargain Hunter,Paid Ads,2024-08-09
+653,High Value,Email,2023-08-30
+654,High Value,Organic,2023-11-11
+655,Medium Value,Email,2023-11-15
+656,Low Value,Email,2023-10-30
+657,Medium Value,Organic,2023-05-17
+658,Medium Value,Paid Ads,2024-01-18
+659,Medium Value,Paid Ads,2024-04-27
+660,Low Value,Social,2023-08-12
+661,Low Value,Email,2023-03-25
+662,Low Value,Paid Ads,2024-01-06
+663,High Value,Email,2023-03-05
+664,Low Value,Affiliate,2023-07-27
+665,Low Value,Organic,2023-12-02
+666,Bargain Hunter,Paid Ads,2023-07-30
+667,Low Value,Paid Ads,2024-06-06
+668,Medium Value,Organic,2023-05-16
+669,Low Value,Paid Ads,2023-03-01
+670,Low Value,Email,2023-11-12
+671,Low Value,Paid Ads,2023-01-04
+672,Low Value,Email,2023-02-16
+673,Medium Value,Email,2024-07-08
+674,Bargain Hunter,Affiliate,2023-03-12
+675,Bargain Hunter,Paid Ads,2023-10-21
+676,Medium Value,Social,2024-03-06
+677,Medium Value,Social,2024-04-04
+678,Bargain Hunter,Affiliate,2024-01-20
+679,High Value,Affiliate,2024-07-06
+680,High Value,Social,2023-05-02
+681,Medium Value,Paid Ads,2024-06-25
+682,High Value,Affiliate,2023-01-04
+683,Low Value,Affiliate,2024-04-19
+684,Low Value,Paid Ads,2024-06-28
+685,Medium Value,Organic,2024-04-16
+686,Medium Value,Paid Ads,2023-04-26
+687,High Value,Email,2023-01-17
+688,Medium Value,Organic,2023-02-04
+689,Medium Value,Email,2023-02-19
+690,Medium Value,Organic,2024-03-25
+691,Medium Value,Organic,2023-02-27
+692,High Value,Affiliate,2023-08-28
+693,Low Value,Email,2023-11-23
+694,Low Value,Social,2023-11-25
+695,Medium Value,Social,2024-06-17
+696,Medium Value,Paid Ads,2023-03-04
+697,Low Value,Email,2023-06-29
+698,Low Value,Paid Ads,2024-05-22
+699,High Value,Paid Ads,2024-01-26
+700,Low Value,Paid Ads,2024-03-02
+701,Medium Value,Paid Ads,2023-07-08
+702,Low Value,Paid Ads,2023-08-19
+703,Medium Value,Email,2024-04-19
+704,Bargain Hunter,Email,2024-03-02
+705,Low Value,Organic,2023-09-06
+706,Medium Value,Paid Ads,2023-03-22
+707,Bargain Hunter,Social,2023-04-05
+708,Low Value,Social,2023-02-22
+709,Medium Value,Email,2023-02-10
+710,Bargain Hunter,Organic,2024-07-26
+711,Medium Value,Organic,2023-12-07
+712,Medium Value,Affiliate,2023-08-05
+713,Bargain Hunter,Affiliate,2023-05-01
+714,Low Value,Social,2023-09-06
+715,Low Value,Email,2024-02-11
+716,Bargain Hunter,Email,2023-10-17
+717,Medium Value,Paid Ads,2024-01-03
+718,Medium Value,Paid Ads,2024-05-24
+719,Medium Value,Social,2024-04-25
+720,Low Value,Paid Ads,2023-07-28
+721,Medium Value,Paid Ads,2024-07-30
+722,Bargain Hunter,Email,2023-01-17
+723,Medium Value,Affiliate,2024-08-16
+724,Low Value,Paid Ads,2023-07-20
+725,Medium Value,Paid Ads,2023-09-09
+726,Medium Value,Email,2023-12-12
+727,Medium Value,Social,2024-05-17
+728,Medium Value,Email,2023-12-27
+729,Medium Value,Email,2024-05-15
+730,Medium Value,Social,2023-03-02
+731,Low Value,Social,2023-03-18
+732,Bargain Hunter,Email,2023-01-07
+733,Medium Value,Social,2023-08-25
+734,High Value,Organic,2023-08-12
+735,Low Value,Paid Ads,2024-05-09
+736,Low Value,Organic,2024-06-28
+737,Low Value,Organic,2024-06-26
+738,Low Value,Paid Ads,2023-10-21
+739,High Value,Social,2024-03-16
+740,Low Value,Affiliate,2023-04-20
+741,Bargain Hunter,Paid Ads,2023-09-04
+742,Medium Value,Paid Ads,2023-12-29
+743,Medium Value,Paid Ads,2024-01-18
+744,Bargain Hunter,Paid Ads,2023-09-07
+745,Bargain Hunter,Organic,2023-03-24
+746,Low Value,Social,2023-02-02
+747,High Value,Paid Ads,2024-07-19
+748,Medium Value,Email,2023-06-25
+749,High Value,Social,2023-12-06
+750,Low Value,Social,2023-04-08
+751,Bargain Hunter,Affiliate,2023-08-24
+752,Medium Value,Social,2024-08-03
+753,Medium Value,Organic,2023-03-18
+754,Low Value,Paid Ads,2024-07-10
+755,Low Value,Organic,2023-11-19
+756,High Value,Organic,2023-05-28
+757,Low Value,Email,2024-02-12
+758,Bargain Hunter,Paid Ads,2024-07-31
+759,Medium Value,Social,2024-02-03
+760,Low Value,Paid Ads,2024-01-29
+761,Low Value,Organic,2023-03-22
+762,Low Value,Affiliate,2023-02-24
+763,High Value,Organic,2023-03-19
+764,Medium Value,Social,2024-02-11
+765,Bargain Hunter,Paid Ads,2023-10-07
+766,Low Value,Paid Ads,2023-08-22
+767,Medium Value,Affiliate,2024-03-18
+768,Medium Value,Email,2024-01-25
+769,High Value,Email,2023-09-10
+770,Low Value,Organic,2023-06-07
+771,Medium Value,Social,2023-06-07
+772,Low Value,Paid Ads,2023-04-20
+773,High Value,Affiliate,2024-03-31
+774,Medium Value,Paid Ads,2023-05-16
+775,High Value,Paid Ads,2024-07-24
+776,Low Value,Paid Ads,2023-01-27
+777,High Value,Email,2023-11-29
+778,Bargain Hunter,Organic,2024-02-28
+779,Medium Value,Organic,2024-07-26
+780,Bargain Hunter,Affiliate,2024-08-08
+781,Low Value,Email,2023-06-23
+782,High Value,Paid Ads,2024-05-19
+783,High Value,Organic,2023-10-10
+784,Medium Value,Paid Ads,2023-03-20
+785,Medium Value,Affiliate,2024-05-22
+786,Low Value,Organic,2023-04-20
+787,High Value,Organic,2024-02-10
+788,Medium Value,Email,2023-12-04
+789,Medium Value,Paid Ads,2023-05-20
+790,Medium Value,Email,2023-07-25
+791,Medium Value,Organic,2024-02-12
+792,Bargain Hunter,Paid Ads,2024-05-17
+793,Bargain Hunter,Social,2023-11-30
+794,Medium Value,Social,2024-02-07
+795,Medium Value,Affiliate,2023-07-24
+796,Low Value,Paid Ads,2024-07-17
+797,High Value,Email,2023-08-03
+798,Medium Value,Paid Ads,2023-03-12
+799,Low Value,Social,2024-02-23
+800,Low Value,Organic,2023-11-07
+801,Medium Value,Email,2024-03-09
+802,Low Value,Organic,2024-05-05
+803,Low Value,Paid Ads,2024-03-04
+804,Low Value,Social,2024-01-04
+805,Low Value,Social,2023-03-29
+806,High Value,Organic,2023-12-30
+807,Medium Value,Email,2024-07-30
+808,Bargain Hunter,Email,2024-02-14
+809,Bargain Hunter,Paid Ads,2024-03-16
+810,High Value,Organic,2023-08-16
+811,Low Value,Paid Ads,2024-08-17
+812,Low Value,Organic,2024-01-19
+813,Medium Value,Social,2024-05-27
+814,Medium Value,Affiliate,2024-05-09
+815,High Value,Paid Ads,2023-03-29
+816,High Value,Affiliate,2023-05-26
+817,Medium Value,Paid Ads,2023-07-31
+818,Low Value,Paid Ads,2023-04-10
+819,Medium Value,Email,2023-11-23
+820,High Value,Organic,2023-04-28
+821,High Value,Paid Ads,2023-04-22
+822,Low Value,Organic,2023-09-07
+823,Low Value,Email,2023-12-05
+824,Low Value,Affiliate,2023-08-26
+825,Low Value,Email,2023-07-10
+826,Low Value,Paid Ads,2023-01-30
+827,Low Value,Social,2024-04-05
+828,Low Value,Paid Ads,2023-08-08
+829,Medium Value,Social,2023-03-06
+830,Low Value,Social,2024-07-03
+831,Medium Value,Paid Ads,2024-04-13
+832,High Value,Email,2024-05-16
+833,Low Value,Email,2024-02-02
+834,Low Value,Email,2023-12-23
+835,Medium Value,Paid Ads,2023-06-26
+836,Low Value,Email,2023-11-01
+837,Bargain Hunter,Email,2023-05-18
+838,Medium Value,Organic,2023-04-30
+839,Medium Value,Email,2024-06-07
+840,Medium Value,Email,2024-08-11
+841,Medium Value,Organic,2024-07-04
+842,Low Value,Email,2023-06-27
+843,Low Value,Paid Ads,2023-05-24
+844,Medium Value,Social,2023-02-24
+845,Bargain Hunter,Affiliate,2024-05-11
+846,High Value,Social,2024-07-29
+847,Low Value,Paid Ads,2024-05-18
+848,Medium Value,Social,2024-05-15
+849,Medium Value,Email,2023-08-14
+850,Medium Value,Paid Ads,2024-07-04
+851,Medium Value,Social,2024-08-02
+852,Low Value,Social,2024-07-16
+853,Low Value,Email,2023-10-02
+854,Low Value,Social,2024-01-11
+855,Low Value,Social,2024-03-27
+856,Low Value,Affiliate,2023-04-15
+857,Low Value,Email,2023-09-11
+858,Medium Value,Affiliate,2024-04-05
+859,Medium Value,Social,2023-03-31
+860,Medium Value,Affiliate,2023-08-31
+861,Medium Value,Email,2023-12-26
+862,Bargain Hunter,Email,2024-03-14
+863,Medium Value,Organic,2023-07-31
+864,Low Value,Social,2024-08-06
+865,Medium Value,Paid Ads,2024-07-05
+866,Medium Value,Affiliate,2023-10-27
+867,Medium Value,Paid Ads,2024-06-10
+868,Bargain Hunter,Email,2023-04-08
+869,High Value,Social,2024-02-26
+870,Bargain Hunter,Affiliate,2023-05-10
+871,Low Value,Organic,2023-05-30
+872,Low Value,Social,2024-02-07
+873,Medium Value,Email,2023-10-03
+874,Low Value,Paid Ads,2023-03-19
+875,Low Value,Social,2023-04-06
+876,Medium Value,Email,2024-01-13
+877,Medium Value,Paid Ads,2024-08-18
+878,High Value,Social,2023-04-06
+879,Low Value,Paid Ads,2024-01-02
+880,Bargain Hunter,Social,2024-02-12
+881,Medium Value,Paid Ads,2023-08-05
+882,Medium Value,Paid Ads,2023-10-18
+883,Medium Value,Email,2024-08-02
+884,Bargain Hunter,Social,2023-02-19
+885,High Value,Email,2024-04-15
+886,High Value,Affiliate,2023-06-11
+887,Medium Value,Organic,2024-03-14
+888,Medium Value,Email,2023-05-16
+889,Bargain Hunter,Paid Ads,2023-10-08
+890,High Value,Paid Ads,2023-03-26
+891,Medium Value,Affiliate,2023-06-19
+892,High Value,Email,2023-08-28
+893,Medium Value,Organic,2023-04-08
+894,High Value,Paid Ads,2023-05-16
+895,Low Value,Paid Ads,2024-03-31
+896,High Value,Email,2023-05-04
+897,Bargain Hunter,Paid Ads,2023-05-16
+898,Medium Value,Organic,2023-04-02
+899,Low Value,Organic,2023-11-17
+900,Medium Value,Paid Ads,2024-01-27
+901,Low Value,Social,2023-05-17
+902,Low Value,Email,2023-03-12
+903,Low Value,Organic,2023-06-18
+904,Medium Value,Email,2023-06-05
+905,Bargain Hunter,Email,2024-03-29
+906,Bargain Hunter,Organic,2023-04-13
+907,High Value,Organic,2024-01-29
+908,Medium Value,Paid Ads,2023-05-24
+909,Medium Value,Email,2023-09-12
+910,Low Value,Email,2023-10-19
+911,Low Value,Email,2023-11-05
+912,Medium Value,Email,2023-07-13
+913,Low Value,Paid Ads,2023-02-25
+914,Low Value,Social,2023-09-03
+915,Medium Value,Organic,2024-05-26
+916,Low Value,Organic,2023-01-13
+917,Bargain Hunter,Affiliate,2023-05-16
+918,Medium Value,Social,2024-03-06
+919,Medium Value,Email,2024-04-27
+920,Bargain Hunter,Social,2023-01-18
+921,Low Value,Organic,2023-08-09
+922,High Value,Organic,2024-02-12
+923,Low Value,Email,2024-05-28
+924,Low Value,Paid Ads,2024-02-16
+925,High Value,Paid Ads,2023-06-06
+926,Medium Value,Paid Ads,2024-06-07
+927,Bargain Hunter,Affiliate,2023-06-09
+928,Low Value,Paid Ads,2023-03-09
+929,Medium Value,Paid Ads,2023-09-02
+930,High Value,Organic,2024-03-20
+931,High Value,Email,2023-02-26
+932,Medium Value,Email,2023-06-29
+933,High Value,Email,2023-01-12
+934,Medium Value,Affiliate,2024-06-19
+935,Low Value,Social,2023-09-23
+936,Medium Value,Organic,2023-10-03
+937,Low Value,Organic,2023-01-31
+938,Medium Value,Paid Ads,2024-06-20
+939,High Value,Email,2024-08-13
+940,Low Value,Paid Ads,2024-06-07
+941,Medium Value,Paid Ads,2024-08-03
+942,Medium Value,Organic,2023-04-16
+943,Bargain Hunter,Email,2023-04-29
+944,Medium Value,Paid Ads,2023-02-15
+945,Bargain Hunter,Organic,2023-02-17
+946,Medium Value,Paid Ads,2023-06-03
+947,Medium Value,Affiliate,2023-02-06
+948,Low Value,Affiliate,2024-03-05
+949,Medium Value,Organic,2023-11-24
+950,Medium Value,Organic,2024-01-17
+951,High Value,Email,2023-02-23
+952,Medium Value,Social,2023-02-17
+953,Bargain Hunter,Organic,2024-04-21
+954,Bargain Hunter,Social,2023-11-15
+955,Medium Value,Email,2023-01-09
+956,Medium Value,Paid Ads,2023-11-08
+957,Low Value,Organic,2024-01-13
+958,Low Value,Paid Ads,2023-07-20
+959,Low Value,Paid Ads,2023-09-09
+960,Medium Value,Affiliate,2023-01-25
+961,Medium Value,Paid Ads,2023-01-10
+962,Bargain Hunter,Organic,2024-01-21
+963,Low Value,Email,2023-04-17
+964,Medium Value,Affiliate,2024-03-05
+965,Medium Value,Organic,2023-05-26
+966,Low Value,Organic,2023-08-26
+967,Bargain Hunter,Paid Ads,2024-01-17
+968,Medium Value,Email,2024-08-17
+969,High Value,Organic,2024-02-08
+970,High Value,Email,2024-03-21
+971,Low Value,Organic,2023-10-26
+972,Medium Value,Paid Ads,2024-02-07
+973,Low Value,Email,2023-11-22
+974,Medium Value,Organic,2023-07-27
+975,High Value,Social,2023-04-22
+976,Medium Value,Organic,2024-04-22
+977,Medium Value,Organic,2024-01-02
+978,Bargain Hunter,Organic,2023-11-12
+979,Medium Value,Social,2023-04-03
+980,Medium Value,Email,2023-02-11
+981,Medium Value,Social,2023-06-01
+982,High Value,Organic,2023-12-31
+983,Medium Value,Organic,2023-11-03
+984,Medium Value,Affiliate,2023-02-01
+985,Bargain Hunter,Social,2024-07-23
+986,Low Value,Organic,2024-04-18
+987,High Value,Social,2023-05-05
+988,High Value,Social,2023-08-16
+989,High Value,Social,2024-01-17
+990,Low Value,Affiliate,2023-03-28
+991,Low Value,Paid Ads,2023-03-18
+992,High Value,Organic,2024-03-30
+993,Low Value,Organic,2023-12-06
+994,High Value,Affiliate,2023-02-21
+995,Medium Value,Email,2024-02-09
+996,Medium Value,Paid Ads,2024-03-12
+997,Medium Value,Organic,2023-07-11
+998,Medium Value,Paid Ads,2023-06-02
+999,High Value,Email,2023-09-09
+1000,Low Value,Paid Ads,2024-07-17
+1001,Medium Value,Organic,2024-01-28
+1002,High Value,Organic,2024-06-22
+1003,Medium Value,Affiliate,2024-07-10
+1004,Low Value,Affiliate,2024-01-03
+1005,Medium Value,Social,2023-12-19
+1006,Bargain Hunter,Paid Ads,2024-02-02
+1007,Medium Value,Organic,2023-08-13
+1008,High Value,Social,2023-10-15
+1009,High Value,Affiliate,2024-06-26
+1010,Medium Value,Email,2023-08-27
+1011,Bargain Hunter,Organic,2023-09-04
+1012,Medium Value,Social,2023-02-27
+1013,Low Value,Affiliate,2024-08-12
+1014,Low Value,Social,2023-12-30
+1015,Bargain Hunter,Affiliate,2023-06-27
+1016,Medium Value,Email,2024-01-03
+1017,Bargain Hunter,Organic,2023-12-27
+1018,Bargain Hunter,Email,2024-07-30
+1019,Bargain Hunter,Social,2024-05-19
+1020,Low Value,Organic,2023-02-08
+1021,High Value,Organic,2023-08-13
+1022,High Value,Paid Ads,2023-12-06
+1023,Bargain Hunter,Organic,2023-05-14
+1024,Medium Value,Organic,2023-11-28
+1025,High Value,Organic,2023-05-26
+1026,Low Value,Social,2024-01-09
+1027,Bargain Hunter,Paid Ads,2024-02-10
+1028,Low Value,Paid Ads,2023-11-27
+1029,High Value,Organic,2024-03-23
+1030,Low Value,Affiliate,2023-11-21
+1031,Medium Value,Affiliate,2024-01-01
+1032,Medium Value,Email,2023-06-29
+1033,Medium Value,Email,2023-10-29
+1034,High Value,Email,2024-08-09
+1035,Medium Value,Affiliate,2024-08-04
+1036,High Value,Email,2023-08-15
+1037,Low Value,Organic,2024-05-23
+1038,High Value,Email,2023-09-01
+1039,Medium Value,Paid Ads,2023-04-01
+1040,Low Value,Email,2023-12-10
+1041,Medium Value,Paid Ads,2023-09-13
+1042,Low Value,Paid Ads,2023-04-21
+1043,Low Value,Organic,2024-03-24
+1044,Low Value,Affiliate,2024-02-28
+1045,Medium Value,Paid Ads,2024-07-13
+1046,Medium Value,Social,2024-08-14
+1047,Low Value,Email,2023-06-16
+1048,Medium Value,Social,2023-02-04
+1049,Medium Value,Paid Ads,2023-04-18
+1050,High Value,Organic,2024-01-20
+1051,Medium Value,Organic,2023-04-06
+1052,Medium Value,Affiliate,2024-05-09
+1053,Low Value,Paid Ads,2023-06-18
+1054,Low Value,Paid Ads,2023-02-24
+1055,High Value,Organic,2023-07-14
+1056,Medium Value,Email,2024-07-07
+1057,Medium Value,Paid Ads,2023-09-01
+1058,High Value,Paid Ads,2024-07-16
+1059,Low Value,Organic,2024-01-05
+1060,High Value,Organic,2024-05-06
+1061,Medium Value,Organic,2023-06-24
+1062,Low Value,Affiliate,2024-04-29
+1063,Low Value,Paid Ads,2024-02-12
+1064,Medium Value,Social,2023-09-29
+1065,High Value,Paid Ads,2023-07-09
+1066,Medium Value,Paid Ads,2023-07-11
+1067,Medium Value,Paid Ads,2024-04-21
+1068,Medium Value,Social,2024-07-31
+1069,High Value,Social,2023-04-10
+1070,High Value,Paid Ads,2024-07-08
+1071,Medium Value,Social,2023-08-21
+1072,Low Value,Social,2024-06-19
+1073,Medium Value,Paid Ads,2024-05-01
+1074,Low Value,Organic,2023-11-03
+1075,High Value,Affiliate,2023-02-05
+1076,Low Value,Affiliate,2024-08-08
+1077,Low Value,Email,2023-05-04
+1078,Bargain Hunter,Paid Ads,2023-06-21
+1079,Bargain Hunter,Social,2023-05-10
+1080,High Value,Organic,2024-03-21
+1081,Medium Value,Social,2023-06-01
+1082,Low Value,Paid Ads,2023-03-10
+1083,High Value,Email,2024-07-19
+1084,Medium Value,Paid Ads,2024-04-14
+1085,Bargain Hunter,Organic,2024-06-19
+1086,Low Value,Organic,2023-06-03
+1087,High Value,Email,2023-04-13
+1088,Bargain Hunter,Email,2023-04-14
+1089,Low Value,Social,2023-12-19
+1090,Bargain Hunter,Paid Ads,2024-05-12
+1091,Low Value,Paid Ads,2023-06-26
+1092,Medium Value,Organic,2024-02-16
+1093,High Value,Social,2023-12-06
+1094,Low Value,Organic,2024-05-01
+1095,Bargain Hunter,Social,2023-01-21
+1096,Medium Value,Social,2023-11-15
+1097,Medium Value,Paid Ads,2023-04-11
+1098,Bargain Hunter,Organic,2023-11-04
+1099,Bargain Hunter,Paid Ads,2023-11-25
+1100,Medium Value,Paid Ads,2023-04-02
+1101,Medium Value,Organic,2024-02-21
+1102,Low Value,Social,2024-01-18
+1103,Low Value,Paid Ads,2023-06-12
+1104,High Value,Email,2024-02-18
+1105,High Value,Social,2024-08-05
+1106,High Value,Organic,2023-07-25
+1107,Low Value,Organic,2024-04-12
+1108,High Value,Paid Ads,2023-07-23
+1109,Medium Value,Social,2024-06-01
+1110,Medium Value,Affiliate,2023-02-01
+1111,Medium Value,Paid Ads,2024-04-01
+1112,Medium Value,Social,2024-08-23
+1113,Low Value,Paid Ads,2023-09-22
+1114,Low Value,Email,2023-10-19
+1115,High Value,Organic,2024-08-08
+1116,Low Value,Organic,2023-08-15
+1117,Low Value,Email,2023-10-03
+1118,Low Value,Paid Ads,2023-01-10
+1119,Medium Value,Organic,2023-06-27
+1120,Low Value,Organic,2023-09-16
+1121,Low Value,Affiliate,2023-10-09
+1122,Medium Value,Paid Ads,2023-12-24
+1123,Medium Value,Organic,2023-11-06
+1124,Low Value,Social,2024-02-11
+1125,Low Value,Organic,2024-01-19
+1126,Low Value,Email,2023-10-17
+1127,Medium Value,Organic,2023-03-07
+1128,Medium Value,Paid Ads,2023-11-29
+1129,Bargain Hunter,Paid Ads,2023-11-02
+1130,Medium Value,Paid Ads,2023-09-04
+1131,Bargain Hunter,Social,2024-02-18
+1132,Low Value,Email,2023-01-27
+1133,Low Value,Affiliate,2023-09-23
+1134,Bargain Hunter,Paid Ads,2023-02-06
+1135,Low Value,Affiliate,2023-07-14
+1136,Medium Value,Email,2024-07-01
+1137,Low Value,Paid Ads,2024-01-03
+1138,Low Value,Social,2024-07-25
+1139,Medium Value,Organic,2023-05-12
+1140,Low Value,Email,2024-07-26
+1141,Low Value,Organic,2023-12-10
+1142,Low Value,Organic,2023-08-17
+1143,Low Value,Paid Ads,2023-12-06
+1144,Medium Value,Email,2024-04-19
+1145,Bargain Hunter,Paid Ads,2024-08-20
+1146,Low Value,Email,2024-04-28
+1147,Bargain Hunter,Paid Ads,2024-01-26
+1148,Low Value,Paid Ads,2023-06-04
+1149,High Value,Organic,2024-02-24
+1150,Bargain Hunter,Social,2024-04-13
+1151,High Value,Social,2023-07-04
+1152,Low Value,Paid Ads,2023-07-01
+1153,Medium Value,Organic,2024-04-07
+1154,Medium Value,Social,2023-06-22
+1155,Low Value,Organic,2023-04-01
+1156,High Value,Paid Ads,2024-03-15
+1157,Medium Value,Affiliate,2024-01-28
+1158,High Value,Paid Ads,2024-01-18
+1159,Bargain Hunter,Social,2024-06-27
+1160,Medium Value,Email,2023-09-12
+1161,Medium Value,Social,2023-11-16
+1162,High Value,Paid Ads,2023-11-10
+1163,Medium Value,Social,2023-11-02
+1164,Bargain Hunter,Paid Ads,2024-06-16
+1165,Low Value,Paid Ads,2023-05-18
+1166,Medium Value,Affiliate,2024-01-03
+1167,Low Value,Organic,2024-02-18
+1168,High Value,Organic,2023-05-15
+1169,Medium Value,Organic,2024-05-31
+1170,Medium Value,Paid Ads,2023-02-08
+1171,Medium Value,Email,2024-07-01
+1172,Low Value,Email,2023-02-19
+1173,Low Value,Email,2023-01-21
+1174,High Value,Organic,2024-03-30
+1175,Medium Value,Paid Ads,2024-04-30
+1176,Low Value,Organic,2023-01-10
+1177,Medium Value,Email,2024-06-16
+1178,Medium Value,Email,2023-05-21
+1179,Medium Value,Social,2024-06-07
+1180,Low Value,Organic,2023-04-27
+1181,Low Value,Paid Ads,2023-07-24
+1182,Low Value,Social,2023-07-26
+1183,Medium Value,Paid Ads,2023-06-14
+1184,High Value,Paid Ads,2023-08-01
+1185,Low Value,Paid Ads,2023-08-29
+1186,High Value,Email,2023-04-24
+1187,Low Value,Email,2023-06-02
+1188,Bargain Hunter,Social,2023-03-18
+1189,Low Value,Organic,2023-09-20
+1190,Low Value,Paid Ads,2023-10-31
+1191,Medium Value,Organic,2023-06-28
+1192,Bargain Hunter,Social,2024-01-04
+1193,Low Value,Paid Ads,2023-04-29
+1194,High Value,Social,2023-02-16
+1195,High Value,Organic,2023-06-24
+1196,Medium Value,Social,2023-10-02
+1197,Bargain Hunter,Organic,2023-12-17
+1198,Medium Value,Paid Ads,2024-04-12
+1199,Medium Value,Paid Ads,2024-05-04
+1200,Low Value,Email,2023-06-20
+1201,High Value,Email,2023-03-02
+1202,Bargain Hunter,Social,2023-04-17
+1203,Medium Value,Email,2024-08-05
+1204,Low Value,Organic,2024-01-24
+1205,Low Value,Email,2023-05-14
+1206,Medium Value,Paid Ads,2024-02-26
+1207,Medium Value,Organic,2023-11-18
+1208,High Value,Social,2024-06-21
+1209,Low Value,Email,2024-08-01
+1210,Medium Value,Affiliate,2023-12-13
+1211,Low Value,Email,2023-04-08
+1212,Medium Value,Email,2024-05-08
+1213,Medium Value,Email,2024-01-30
+1214,High Value,Social,2023-02-25
+1215,High Value,Affiliate,2024-06-01
+1216,Low Value,Social,2023-06-19
+1217,High Value,Paid Ads,2023-09-04
+1218,Medium Value,Paid Ads,2024-06-03
+1219,Medium Value,Email,2024-02-17
+1220,Low Value,Organic,2024-03-30
+1221,Low Value,Paid Ads,2024-05-25
+1222,Medium Value,Organic,2024-05-24
+1223,Low Value,Organic,2024-02-18
+1224,Medium Value,Email,2023-01-01
+1225,Low Value,Social,2023-11-08
+1226,Bargain Hunter,Email,2024-04-12
+1227,Bargain Hunter,Paid Ads,2023-02-25
+1228,Low Value,Social,2023-12-06
+1229,Low Value,Email,2024-04-29
+1230,Low Value,Paid Ads,2024-04-08
+1231,High Value,Social,2023-08-16
+1232,High Value,Paid Ads,2023-10-26
+1233,Low Value,Paid Ads,2023-04-19
+1234,High Value,Organic,2023-05-24
+1235,Low Value,Email,2024-02-24
+1236,High Value,Email,2023-07-12
+1237,High Value,Social,2023-08-09
+1238,Medium Value,Social,2023-12-13
+1239,High Value,Paid Ads,2023-05-07
+1240,Low Value,Paid Ads,2024-05-31
+1241,High Value,Paid Ads,2024-06-27
+1242,Low Value,Email,2024-03-19
+1243,Low Value,Paid Ads,2024-06-04
+1244,Low Value,Affiliate,2024-08-15
+1245,Medium Value,Social,2023-04-17
+1246,Medium Value,Email,2023-11-26
+1247,Low Value,Paid Ads,2023-09-12
+1248,Medium Value,Affiliate,2023-10-29
+1249,Medium Value,Organic,2024-02-27
+1250,Low Value,Social,2024-06-08
+1251,Medium Value,Email,2023-11-18
+1252,Low Value,Affiliate,2023-08-11
+1253,Medium Value,Email,2023-10-25
+1254,Low Value,Affiliate,2023-05-16
+1255,Bargain Hunter,Email,2023-07-02
+1256,Low Value,Email,2023-11-27
+1257,Low Value,Social,2024-07-29
+1258,Medium Value,Email,2024-03-03
+1259,Low Value,Social,2024-06-30
+1260,Medium Value,Social,2023-01-14
+1261,Low Value,Organic,2023-05-29
+1262,High Value,Organic,2023-10-01
+1263,Low Value,Organic,2023-10-21
+1264,Low Value,Organic,2023-03-05
+1265,Low Value,Paid Ads,2024-07-08
+1266,High Value,Social,2023-04-15
+1267,Low Value,Email,2024-07-29
+1268,Bargain Hunter,Email,2024-07-28
+1269,Medium Value,Paid Ads,2023-10-22
+1270,Low Value,Organic,2024-01-26
+1271,Medium Value,Affiliate,2023-11-17
+1272,Bargain Hunter,Organic,2023-09-15
+1273,Medium Value,Social,2024-03-29
+1274,Low Value,Affiliate,2024-01-12
+1275,Low Value,Paid Ads,2023-07-21
+1276,Low Value,Affiliate,2023-10-29
+1277,Medium Value,Affiliate,2023-03-18
+1278,Medium Value,Organic,2024-06-10
+1279,High Value,Organic,2023-10-13
+1280,Low Value,Organic,2024-08-21
+1281,Low Value,Organic,2024-04-22
+1282,Low Value,Organic,2023-06-07
+1283,Bargain Hunter,Email,2023-11-05
+1284,Medium Value,Email,2024-01-02
+1285,High Value,Email,2024-06-22
+1286,Medium Value,Organic,2023-03-11
+1287,Low Value,Organic,2024-07-10
+1288,Low Value,Organic,2023-08-15
+1289,Bargain Hunter,Email,2023-12-06
+1290,Medium Value,Organic,2024-06-27
+1291,Medium Value,Email,2023-01-10
+1292,High Value,Paid Ads,2023-09-04
+1293,Bargain Hunter,Email,2023-09-07
+1294,Bargain Hunter,Email,2023-11-25
+1295,Medium Value,Social,2023-04-27
+1296,Medium Value,Paid Ads,2023-10-17
+1297,High Value,Paid Ads,2024-01-19
+1298,Low Value,Paid Ads,2024-05-13
+1299,High Value,Social,2023-07-17
+1300,Medium Value,Organic,2023-04-09
+1301,Medium Value,Affiliate,2024-07-04
+1302,Low Value,Email,2023-08-04
+1303,Low Value,Social,2024-03-10
+1304,Low Value,Organic,2024-03-21
+1305,Low Value,Affiliate,2023-06-07
+1306,High Value,Email,2023-02-08
+1307,High Value,Organic,2023-09-15
+1308,Low Value,Email,2023-08-22
+1309,Bargain Hunter,Paid Ads,2024-04-06
+1310,Low Value,Paid Ads,2023-01-18
+1311,Medium Value,Organic,2023-01-07
+1312,Low Value,Email,2024-08-22
+1313,High Value,Social,2024-01-02
+1314,Bargain Hunter,Organic,2023-11-05
+1315,Low Value,Paid Ads,2024-03-24
+1316,Medium Value,Social,2023-02-01
+1317,Medium Value,Paid Ads,2023-05-20
+1318,Low Value,Social,2024-07-12
+1319,Medium Value,Email,2023-11-02
+1320,Low Value,Affiliate,2024-01-18
+1321,Bargain Hunter,Organic,2024-07-22
+1322,High Value,Organic,2024-08-09
+1323,Low Value,Paid Ads,2023-03-29
+1324,Medium Value,Email,2023-12-19
+1325,Medium Value,Affiliate,2024-06-08
+1326,High Value,Organic,2023-09-16
+1327,Medium Value,Organic,2024-08-03
+1328,Bargain Hunter,Social,2024-07-16
+1329,Medium Value,Paid Ads,2023-10-25
+1330,Low Value,Paid Ads,2023-07-22
+1331,Low Value,Paid Ads,2023-12-05
+1332,Medium Value,Email,2023-08-29
+1333,High Value,Email,2023-07-18
+1334,Medium Value,Paid Ads,2023-11-10
+1335,Low Value,Organic,2024-08-03
+1336,Medium Value,Paid Ads,2024-03-14
+1337,Medium Value,Paid Ads,2023-08-15
+1338,Low Value,Email,2023-10-11
+1339,Low Value,Organic,2023-12-06
+1340,Bargain Hunter,Paid Ads,2024-01-03
+1341,Low Value,Paid Ads,2023-04-22
+1342,Medium Value,Email,2023-10-15
+1343,Bargain Hunter,Organic,2024-07-05
+1344,Medium Value,Email,2023-03-20
+1345,Low Value,Social,2024-06-03
+1346,Low Value,Social,2024-08-15
+1347,Medium Value,Email,2023-02-07
+1348,Low Value,Paid Ads,2024-07-06
+1349,Medium Value,Social,2024-01-10
+1350,Medium Value,Social,2023-10-25
+1351,High Value,Paid Ads,2023-04-03
+1352,Medium Value,Paid Ads,2023-09-02
+1353,Low Value,Social,2023-06-19
+1354,Low Value,Organic,2023-06-13
+1355,Medium Value,Affiliate,2023-05-30
+1356,Low Value,Paid Ads,2024-01-03
+1357,High Value,Social,2023-08-26
+1358,High Value,Paid Ads,2023-02-13
+1359,Low Value,Paid Ads,2024-01-05
+1360,Medium Value,Affiliate,2023-02-17
+1361,High Value,Email,2023-04-16
+1362,Low Value,Paid Ads,2023-10-08
+1363,Low Value,Paid Ads,2024-07-11
+1364,Low Value,Paid Ads,2024-01-23
+1365,Medium Value,Email,2023-03-21
+1366,Low Value,Paid Ads,2023-08-17
+1367,Low Value,Paid Ads,2023-12-20
+1368,Medium Value,Paid Ads,2023-01-07
+1369,Low Value,Organic,2023-06-19
+1370,Medium Value,Paid Ads,2023-10-15
+1371,Medium Value,Organic,2024-01-06
+1372,Low Value,Social,2023-08-24
+1373,Medium Value,Paid Ads,2023-04-27
+1374,Medium Value,Paid Ads,2023-08-04
+1375,Low Value,Email,2024-02-25
+1376,High Value,Organic,2024-08-10
+1377,Low Value,Organic,2024-06-08
+1378,High Value,Email,2023-02-27
+1379,Medium Value,Affiliate,2024-06-13
+1380,Bargain Hunter,Email,2024-07-31
+1381,Low Value,Social,2023-10-18
+1382,Bargain Hunter,Organic,2024-04-27
+1383,Bargain Hunter,Organic,2024-02-25
+1384,Low Value,Social,2023-07-06
+1385,Low Value,Paid Ads,2023-06-21
+1386,Low Value,Paid Ads,2024-04-09
+1387,Low Value,Organic,2024-01-23
+1388,Medium Value,Organic,2023-07-27
+1389,Low Value,Affiliate,2024-03-05
+1390,Low Value,Email,2023-07-01
+1391,Medium Value,Email,2023-02-09
+1392,Bargain Hunter,Paid Ads,2023-05-01
+1393,High Value,Email,2024-07-06
+1394,Low Value,Social,2024-03-17
+1395,Low Value,Paid Ads,2023-02-14
+1396,Low Value,Paid Ads,2024-05-08
+1397,Low Value,Paid Ads,2024-08-12
+1398,High Value,Organic,2024-05-03
+1399,Low Value,Affiliate,2023-03-27
+1400,Medium Value,Social,2024-02-23
+1401,Medium Value,Organic,2023-01-08
+1402,Low Value,Organic,2023-01-08
+1403,Medium Value,Organic,2023-11-20
+1404,Medium Value,Organic,2024-03-12
+1405,Low Value,Paid Ads,2024-07-02
+1406,Medium Value,Paid Ads,2023-10-10
+1407,Bargain Hunter,Paid Ads,2023-07-28
+1408,Medium Value,Social,2024-05-09
+1409,Medium Value,Email,2024-05-10
+1410,Medium Value,Paid Ads,2023-12-19
+1411,Low Value,Paid Ads,2023-05-22
+1412,Bargain Hunter,Email,2023-08-24
+1413,Medium Value,Email,2023-06-15
+1414,High Value,Paid Ads,2023-12-13
+1415,Low Value,Email,2023-02-23
+1416,Medium Value,Affiliate,2023-01-06
+1417,Low Value,Social,2024-04-27
+1418,Bargain Hunter,Paid Ads,2023-03-07
+1419,Medium Value,Paid Ads,2023-02-08
+1420,Low Value,Affiliate,2024-02-15
+1421,Low Value,Paid Ads,2023-02-28
+1422,Bargain Hunter,Social,2024-05-21
+1423,Medium Value,Organic,2024-06-14
+1424,Medium Value,Organic,2024-06-06
+1425,Low Value,Organic,2023-06-23
+1426,Low Value,Paid Ads,2023-01-01
+1427,Bargain Hunter,Organic,2023-10-10
+1428,Low Value,Paid Ads,2024-02-09
+1429,Medium Value,Organic,2023-01-16
+1430,Low Value,Organic,2023-04-03
+1431,Low Value,Email,2024-07-26
+1432,Bargain Hunter,Paid Ads,2023-10-11
+1433,Medium Value,Affiliate,2024-04-10
+1434,Bargain Hunter,Email,2023-09-25
+1435,Medium Value,Paid Ads,2024-07-26
+1436,High Value,Paid Ads,2023-04-30
+1437,Low Value,Affiliate,2024-07-04
+1438,Low Value,Email,2024-03-29
+1439,Bargain Hunter,Email,2023-09-07
+1440,Low Value,Affiliate,2024-04-14
+1441,Low Value,Social,2023-01-29
+1442,Medium Value,Paid Ads,2024-01-27
+1443,Low Value,Affiliate,2023-08-24
+1444,Low Value,Paid Ads,2023-12-28
+1445,Low Value,Organic,2023-09-27
+1446,Medium Value,Organic,2023-12-17
+1447,High Value,Affiliate,2024-05-02
+1448,Medium Value,Organic,2024-08-10
+1449,Medium Value,Affiliate,2023-07-14
+1450,Medium Value,Organic,2023-09-05
+1451,Bargain Hunter,Organic,2023-07-27
+1452,Low Value,Social,2023-12-31
+1453,Medium Value,Organic,2023-03-22
+1454,Low Value,Email,2023-01-07
+1455,Low Value,Paid Ads,2023-02-13
+1456,Low Value,Paid Ads,2023-11-19
+1457,Medium Value,Affiliate,2024-08-11
+1458,Bargain Hunter,Paid Ads,2024-06-07
+1459,Medium Value,Organic,2024-08-13
+1460,High Value,Paid Ads,2024-03-09
+1461,Medium Value,Paid Ads,2024-05-29
+1462,Medium Value,Social,2023-06-28
+1463,Medium Value,Organic,2024-06-14
+1464,Medium Value,Email,2023-01-13
+1465,Low Value,Paid Ads,2023-04-14
+1466,Medium Value,Email,2023-09-23
+1467,Medium Value,Paid Ads,2023-10-03
+1468,Medium Value,Email,2024-01-10
+1469,Medium Value,Paid Ads,2024-03-05
+1470,Low Value,Paid Ads,2024-02-15
+1471,Medium Value,Organic,2023-05-15
+1472,Bargain Hunter,Email,2023-04-13
+1473,Low Value,Social,2024-07-22
+1474,Medium Value,Paid Ads,2023-05-30
+1475,Low Value,Email,2024-04-29
+1476,Low Value,Organic,2024-05-26
+1477,High Value,Social,2024-06-13
+1478,Low Value,Paid Ads,2024-05-13
+1479,Medium Value,Email,2024-08-04
+1480,High Value,Organic,2023-06-17
+1481,High Value,Social,2024-05-02
+1482,Low Value,Organic,2023-12-09
+1483,Medium Value,Paid Ads,2024-07-24
+1484,Bargain Hunter,Paid Ads,2023-01-21
+1485,Medium Value,Paid Ads,2023-07-23
+1486,Low Value,Email,2024-07-05
+1487,Medium Value,Social,2023-12-30
+1488,Medium Value,Paid Ads,2024-04-02
+1489,Bargain Hunter,Paid Ads,2023-10-21
+1490,Medium Value,Affiliate,2023-06-21
+1491,Low Value,Affiliate,2024-03-07
+1492,Low Value,Email,2023-03-15
+1493,High Value,Paid Ads,2023-11-18
+1494,Medium Value,Paid Ads,2023-10-01
+1495,Low Value,Paid Ads,2024-03-31
+1496,Low Value,Affiliate,2024-06-17
+1497,Bargain Hunter,Paid Ads,2023-07-08
+1498,Bargain Hunter,Organic,2023-08-29
+1499,Low Value,Affiliate,2023-03-23
+1500,Medium Value,Paid Ads,2023-04-08
+1501,High Value,Social,2024-07-15
+1502,High Value,Social,2024-06-20
+1503,Low Value,Organic,2023-09-26
+1504,Low Value,Organic,2024-02-04
+1505,Medium Value,Organic,2023-10-18
+1506,Medium Value,Organic,2024-06-23
+1507,Low Value,Organic,2024-01-01
+1508,Bargain Hunter,Paid Ads,2024-05-02
+1509,Medium Value,Social,2023-10-06
+1510,Low Value,Organic,2024-07-06
+1511,Medium Value,Email,2024-07-31
+1512,Medium Value,Email,2024-06-30
+1513,Medium Value,Paid Ads,2024-07-06
+1514,Medium Value,Organic,2023-11-12
+1515,Medium Value,Paid Ads,2023-11-07
+1516,High Value,Paid Ads,2023-05-20
+1517,Medium Value,Paid Ads,2023-01-09
+1518,Low Value,Paid Ads,2024-05-03
+1519,Medium Value,Social,2023-10-27
+1520,Low Value,Social,2024-07-15
+1521,Medium Value,Paid Ads,2024-07-28
+1522,Medium Value,Organic,2024-02-04
+1523,Low Value,Organic,2023-03-23
+1524,Medium Value,Organic,2023-10-06
+1525,Medium Value,Email,2023-10-03
+1526,Medium Value,Social,2023-07-06
+1527,High Value,Organic,2024-04-11
+1528,Low Value,Paid Ads,2024-05-18
+1529,Medium Value,Organic,2023-02-20
+1530,Bargain Hunter,Organic,2023-04-15
+1531,Medium Value,Organic,2024-03-24
+1532,Low Value,Organic,2023-06-04
+1533,High Value,Organic,2024-03-06
+1534,Medium Value,Social,2024-01-16
+1535,Medium Value,Social,2023-12-05
+1536,High Value,Social,2023-05-30
+1537,High Value,Social,2023-03-15
+1538,Low Value,Organic,2023-09-14
+1539,Low Value,Social,2023-05-05
+1540,Bargain Hunter,Email,2024-01-30
+1541,Low Value,Paid Ads,2023-02-04
+1542,Medium Value,Email,2023-04-07
+1543,Low Value,Affiliate,2024-04-29
+1544,Medium Value,Affiliate,2023-11-27
+1545,Medium Value,Email,2024-07-16
+1546,Low Value,Paid Ads,2023-11-02
+1547,Medium Value,Social,2023-08-12
+1548,Bargain Hunter,Organic,2024-03-20
+1549,Medium Value,Organic,2023-10-10
+1550,Low Value,Paid Ads,2023-09-06
+1551,High Value,Organic,2024-05-01
+1552,Low Value,Organic,2023-04-02
+1553,Medium Value,Paid Ads,2023-12-13
+1554,Bargain Hunter,Affiliate,2023-03-03
+1555,High Value,Email,2024-07-03
+1556,Low Value,Organic,2023-08-27
+1557,Medium Value,Email,2023-12-22
+1558,Low Value,Paid Ads,2023-07-17
+1559,High Value,Paid Ads,2023-05-18
+1560,Medium Value,Organic,2024-03-24
+1561,Low Value,Paid Ads,2024-05-16
+1562,Medium Value,Organic,2023-12-23
+1563,Medium Value,Paid Ads,2024-07-21
+1564,Medium Value,Paid Ads,2024-04-05
+1565,Medium Value,Paid Ads,2024-01-11
+1566,Medium Value,Social,2024-06-02
+1567,Medium Value,Organic,2023-01-20
+1568,Low Value,Paid Ads,2023-09-02
+1569,Medium Value,Organic,2024-07-05
+1570,Low Value,Organic,2024-05-24
+1571,Low Value,Organic,2023-10-17
+1572,Medium Value,Email,2023-04-24
+1573,High Value,Email,2023-02-14
+1574,Low Value,Organic,2023-02-02
+1575,Medium Value,Paid Ads,2023-04-12
+1576,High Value,Email,2024-02-02
+1577,Low Value,Paid Ads,2023-09-20
+1578,High Value,Organic,2023-03-14
+1579,High Value,Affiliate,2024-05-18
+1580,Bargain Hunter,Social,2024-04-24
+1581,Low Value,Organic,2024-07-25
+1582,Low Value,Social,2024-01-13
+1583,Low Value,Organic,2023-09-30
+1584,Low Value,Email,2023-11-08
+1585,High Value,Organic,2024-06-15
+1586,High Value,Email,2024-06-28
+1587,Medium Value,Organic,2023-09-12
+1588,Low Value,Affiliate,2024-07-25
+1589,Low Value,Paid Ads,2023-04-19
+1590,Low Value,Email,2024-04-14
+1591,Low Value,Paid Ads,2023-04-17
+1592,Medium Value,Organic,2024-02-16
+1593,Low Value,Email,2024-06-30
+1594,Bargain Hunter,Paid Ads,2023-12-27
+1595,Bargain Hunter,Email,2023-11-29
+1596,Low Value,Paid Ads,2024-03-16
+1597,Low Value,Paid Ads,2023-09-04
+1598,Low Value,Organic,2024-07-17
+1599,Bargain Hunter,Paid Ads,2024-04-08
+1600,Medium Value,Paid Ads,2023-02-05
+1601,Bargain Hunter,Email,2024-06-14
+1602,High Value,Social,2023-01-07
+1603,Medium Value,Organic,2023-11-19
+1604,High Value,Social,2023-10-10
+1605,Bargain Hunter,Paid Ads,2024-08-07
+1606,Bargain Hunter,Organic,2023-02-08
+1607,Medium Value,Organic,2023-09-29
+1608,Medium Value,Email,2023-08-27
+1609,Medium Value,Paid Ads,2024-08-07
+1610,Medium Value,Affiliate,2023-03-21
+1611,Low Value,Social,2023-06-27
+1612,Medium Value,Social,2024-08-13
+1613,Low Value,Organic,2023-11-04
+1614,High Value,Social,2024-01-26
+1615,High Value,Organic,2023-12-09
+1616,Medium Value,Social,2024-03-02
+1617,Bargain Hunter,Organic,2023-08-21
+1618,Low Value,Social,2023-01-12
+1619,Low Value,Email,2023-02-25
+1620,Medium Value,Organic,2024-07-06
+1621,Low Value,Paid Ads,2023-08-15
+1622,Medium Value,Email,2024-02-07
+1623,Bargain Hunter,Social,2024-08-12
+1624,Low Value,Organic,2023-10-24
+1625,Low Value,Organic,2023-12-11
+1626,High Value,Email,2023-02-20
+1627,Low Value,Paid Ads,2024-02-13
+1628,Low Value,Social,2023-05-14
+1629,Low Value,Paid Ads,2023-07-22
+1630,Medium Value,Email,2023-07-20
+1631,Low Value,Affiliate,2024-06-20
+1632,Medium Value,Organic,2024-03-16
+1633,Medium Value,Affiliate,2023-04-02
+1634,High Value,Paid Ads,2024-01-10
+1635,Medium Value,Paid Ads,2023-01-25
+1636,Low Value,Organic,2023-12-25
+1637,Low Value,Affiliate,2024-03-28
+1638,Low Value,Paid Ads,2023-08-28
+1639,Medium Value,Paid Ads,2023-03-29
+1640,High Value,Organic,2023-06-01
+1641,Bargain Hunter,Social,2023-01-15
+1642,Medium Value,Social,2023-11-09
+1643,Medium Value,Organic,2023-08-03
+1644,Low Value,Organic,2024-07-13
+1645,Low Value,Paid Ads,2024-05-09
+1646,Low Value,Affiliate,2023-01-19
+1647,Medium Value,Affiliate,2024-06-23
+1648,High Value,Organic,2023-10-18
+1649,Medium Value,Email,2023-10-05
+1650,High Value,Email,2023-01-09
+1651,High Value,Email,2024-01-04
+1652,Bargain Hunter,Organic,2024-01-31
+1653,Medium Value,Paid Ads,2023-04-12
+1654,Bargain Hunter,Paid Ads,2024-06-28
+1655,High Value,Organic,2024-04-13
+1656,Low Value,Email,2023-02-10
+1657,Medium Value,Paid Ads,2023-12-08
+1658,Medium Value,Email,2023-01-19
+1659,Medium Value,Paid Ads,2023-11-06
+1660,Medium Value,Affiliate,2024-05-28
+1661,Medium Value,Organic,2023-09-21
+1662,Bargain Hunter,Social,2023-01-31
+1663,Bargain Hunter,Affiliate,2023-08-19
+1664,Medium Value,Social,2023-05-21
+1665,High Value,Paid Ads,2023-08-21
+1666,Medium Value,Email,2024-03-12
+1667,Bargain Hunter,Affiliate,2023-12-04
+1668,Medium Value,Organic,2023-05-22
+1669,Low Value,Email,2023-07-27
+1670,Bargain Hunter,Paid Ads,2024-06-20
+1671,Bargain Hunter,Paid Ads,2023-05-29
+1672,Low Value,Email,2023-06-11
+1673,Medium Value,Email,2023-05-02
+1674,Medium Value,Social,2023-05-30
+1675,Low Value,Social,2024-02-28
+1676,Bargain Hunter,Paid Ads,2023-10-08
+1677,Medium Value,Organic,2023-05-15
+1678,Medium Value,Social,2023-10-01
+1679,Low Value,Email,2023-08-26
+1680,Medium Value,Organic,2023-03-23
+1681,Low Value,Paid Ads,2024-05-29
+1682,Low Value,Paid Ads,2024-01-18
+1683,Medium Value,Paid Ads,2024-04-30
+1684,High Value,Organic,2023-02-03
+1685,Medium Value,Affiliate,2023-10-04
+1686,Bargain Hunter,Organic,2023-07-27
+1687,Low Value,Organic,2024-03-25
+1688,Bargain Hunter,Paid Ads,2023-11-29
+1689,Bargain Hunter,Social,2024-03-13
+1690,Medium Value,Organic,2024-01-25
+1691,Low Value,Paid Ads,2024-08-08
+1692,Low Value,Paid Ads,2023-02-09
+1693,Low Value,Paid Ads,2023-02-13
+1694,Bargain Hunter,Organic,2024-07-04
+1695,Medium Value,Email,2024-07-25
+1696,Medium Value,Social,2023-02-20
+1697,Medium Value,Paid Ads,2023-11-08
+1698,Low Value,Paid Ads,2023-06-20
+1699,Medium Value,Email,2023-02-25
+1700,Low Value,Affiliate,2024-04-19
+1701,Low Value,Paid Ads,2024-05-27
+1702,High Value,Social,2024-07-13
+1703,High Value,Paid Ads,2024-04-06
+1704,High Value,Paid Ads,2023-07-26
+1705,Bargain Hunter,Organic,2023-11-28
+1706,Low Value,Affiliate,2023-06-17
+1707,Low Value,Organic,2023-04-27
+1708,Low Value,Email,2023-03-29
+1709,Low Value,Paid Ads,2024-06-07
+1710,Low Value,Organic,2024-07-17
+1711,Medium Value,Social,2023-12-10
+1712,Low Value,Email,2023-06-03
+1713,Medium Value,Organic,2023-02-22
+1714,Medium Value,Paid Ads,2024-04-01
+1715,Medium Value,Organic,2023-05-15
+1716,Bargain Hunter,Organic,2023-09-17
+1717,High Value,Paid Ads,2024-05-25
+1718,Low Value,Organic,2024-05-20
+1719,Medium Value,Email,2024-05-02
+1720,Medium Value,Paid Ads,2023-01-07
+1721,Medium Value,Paid Ads,2024-07-24
+1722,Low Value,Organic,2023-07-09
+1723,High Value,Email,2023-02-07
+1724,High Value,Organic,2024-08-14
+1725,Low Value,Paid Ads,2023-03-31
+1726,High Value,Paid Ads,2023-07-02
+1727,Medium Value,Paid Ads,2024-08-09
+1728,Low Value,Organic,2024-04-11
+1729,Low Value,Paid Ads,2023-02-06
+1730,High Value,Paid Ads,2024-01-13
+1731,Bargain Hunter,Social,2024-03-13
+1732,Low Value,Organic,2024-04-27
+1733,High Value,Email,2023-10-09
+1734,Medium Value,Paid Ads,2023-08-03
+1735,Low Value,Email,2023-04-22
+1736,Low Value,Affiliate,2024-06-25
+1737,Bargain Hunter,Paid Ads,2023-10-22
+1738,Medium Value,Social,2023-09-23
+1739,Low Value,Affiliate,2023-12-29
+1740,Bargain Hunter,Email,2024-05-23
+1741,Low Value,Email,2024-05-19
+1742,Low Value,Social,2023-08-27
+1743,Low Value,Affiliate,2023-01-02
+1744,High Value,Paid Ads,2023-05-01
+1745,Low Value,Organic,2024-02-29
+1746,Medium Value,Paid Ads,2024-07-27
+1747,Low Value,Organic,2023-07-26
+1748,Low Value,Paid Ads,2023-03-11
+1749,Medium Value,Paid Ads,2023-11-28
+1750,Low Value,Organic,2023-12-08
+1751,Medium Value,Email,2023-01-30
+1752,Low Value,Organic,2023-12-13
+1753,Bargain Hunter,Paid Ads,2024-04-30
+1754,Low Value,Email,2024-05-08
+1755,Medium Value,Paid Ads,2024-07-03
+1756,Bargain Hunter,Paid Ads,2024-02-28
+1757,Bargain Hunter,Organic,2024-06-17
+1758,Medium Value,Email,2023-11-20
+1759,Low Value,Organic,2024-08-14
+1760,Low Value,Social,2023-12-29
+1761,High Value,Organic,2023-02-01
+1762,Medium Value,Paid Ads,2024-07-01
+1763,Low Value,Email,2024-02-03
+1764,Medium Value,Organic,2023-11-12
+1765,Low Value,Paid Ads,2023-02-02
+1766,Medium Value,Organic,2023-09-01
+1767,Medium Value,Social,2023-11-06
+1768,Medium Value,Paid Ads,2023-04-25
+1769,Medium Value,Organic,2023-07-26
+1770,Bargain Hunter,Paid Ads,2023-01-26
+1771,Low Value,Affiliate,2023-06-07
+1772,Medium Value,Affiliate,2024-06-20
+1773,Medium Value,Paid Ads,2023-04-11
+1774,Low Value,Affiliate,2023-05-16
+1775,Medium Value,Organic,2024-02-01
+1776,Low Value,Paid Ads,2023-01-05
+1777,Medium Value,Organic,2023-03-31
+1778,Medium Value,Social,2023-04-16
+1779,Low Value,Email,2023-11-16
+1780,High Value,Social,2023-08-03
+1781,Medium Value,Organic,2023-10-11
+1782,Low Value,Social,2023-05-01
+1783,Medium Value,Organic,2023-04-28
+1784,High Value,Email,2024-06-10
+1785,High Value,Paid Ads,2024-07-16
+1786,Medium Value,Organic,2023-10-18
+1787,Low Value,Organic,2023-11-15
+1788,Low Value,Paid Ads,2024-03-30
+1789,High Value,Organic,2023-02-21
+1790,High Value,Organic,2024-03-12
+1791,Medium Value,Email,2024-04-01
+1792,Low Value,Paid Ads,2023-07-22
+1793,Low Value,Email,2024-06-30
+1794,High Value,Affiliate,2024-04-21
+1795,Low Value,Organic,2024-04-24
+1796,High Value,Paid Ads,2024-04-21
+1797,Medium Value,Affiliate,2023-05-28
+1798,Bargain Hunter,Email,2024-01-08
+1799,Medium Value,Email,2023-12-05
+1800,Low Value,Social,2024-04-09
+1801,Medium Value,Organic,2023-04-26
+1802,Medium Value,Paid Ads,2023-06-24
+1803,Medium Value,Paid Ads,2024-08-11
+1804,High Value,Organic,2023-04-20
+1805,Medium Value,Email,2023-11-06
+1806,Low Value,Paid Ads,2024-02-28
+1807,Medium Value,Organic,2023-06-12
+1808,Bargain Hunter,Paid Ads,2023-12-15
+1809,Medium Value,Email,2024-03-17
+1810,Low Value,Paid Ads,2023-12-17
+1811,Low Value,Organic,2023-03-21
+1812,Low Value,Email,2024-05-13
+1813,High Value,Email,2023-11-30
+1814,Low Value,Social,2023-06-30
+1815,Medium Value,Paid Ads,2023-04-22
+1816,Low Value,Email,2024-01-24
+1817,Medium Value,Email,2023-03-04
+1818,High Value,Social,2024-08-17
+1819,Bargain Hunter,Email,2023-01-01
+1820,Low Value,Email,2024-04-08
+1821,Low Value,Paid Ads,2024-08-14
+1822,Medium Value,Organic,2023-11-21
+1823,Medium Value,Social,2023-11-08
+1824,Bargain Hunter,Affiliate,2023-12-19
+1825,Bargain Hunter,Email,2024-06-06
+1826,Medium Value,Organic,2023-10-29
+1827,High Value,Affiliate,2023-02-24
+1828,High Value,Email,2024-01-03
+1829,High Value,Paid Ads,2023-02-01
+1830,Medium Value,Email,2024-02-08
+1831,Low Value,Email,2024-02-20
+1832,Medium Value,Paid Ads,2023-06-27
+1833,Medium Value,Organic,2024-01-29
+1834,Low Value,Paid Ads,2024-03-03
+1835,Medium Value,Affiliate,2023-05-09
+1836,High Value,Organic,2023-01-17
+1837,High Value,Social,2024-03-23
+1838,Bargain Hunter,Organic,2023-05-21
+1839,Low Value,Paid Ads,2024-04-11
+1840,Bargain Hunter,Email,2024-03-11
+1841,Low Value,Paid Ads,2024-03-10
+1842,Low Value,Paid Ads,2023-12-30
+1843,Medium Value,Paid Ads,2023-01-08
+1844,Low Value,Social,2023-08-31
+1845,Low Value,Paid Ads,2024-07-13
+1846,Low Value,Organic,2023-02-08
+1847,Low Value,Email,2023-04-26
+1848,Low Value,Affiliate,2023-03-23
+1849,High Value,Email,2023-10-14
+1850,Medium Value,Organic,2023-04-01
+1851,Medium Value,Email,2023-03-21
+1852,Low Value,Paid Ads,2024-08-16
+1853,Medium Value,Organic,2023-12-18
+1854,Low Value,Organic,2024-04-09
+1855,Low Value,Paid Ads,2023-12-06
+1856,Medium Value,Affiliate,2023-10-29
+1857,Medium Value,Organic,2023-11-08
+1858,Low Value,Email,2023-03-04
+1859,Low Value,Email,2024-08-09
+1860,High Value,Affiliate,2023-01-28
+1861,Medium Value,Organic,2024-06-01
+1862,High Value,Social,2023-09-16
+1863,High Value,Paid Ads,2023-09-21
+1864,High Value,Organic,2023-06-28
+1865,Bargain Hunter,Email,2024-04-02
+1866,Medium Value,Organic,2023-08-30
+1867,Medium Value,Social,2023-02-03
+1868,Medium Value,Organic,2023-05-29
+1869,Low Value,Social,2024-05-22
+1870,Low Value,Paid Ads,2024-01-28
+1871,Medium Value,Paid Ads,2023-06-21
+1872,Medium Value,Email,2023-12-20
+1873,High Value,Paid Ads,2023-04-29
+1874,High Value,Paid Ads,2024-05-02
+1875,Medium Value,Email,2024-06-29
+1876,Medium Value,Email,2024-02-04
+1877,Medium Value,Organic,2024-03-21
+1878,High Value,Affiliate,2024-04-04
+1879,Medium Value,Paid Ads,2024-06-26
+1880,Low Value,Organic,2024-06-28
+1881,Low Value,Affiliate,2024-03-18
+1882,Low Value,Email,2023-10-07
+1883,Medium Value,Paid Ads,2023-04-11
+1884,Medium Value,Email,2024-04-17
+1885,Low Value,Email,2023-07-19
+1886,Low Value,Email,2023-07-04
+1887,Medium Value,Organic,2023-01-09
+1888,Low Value,Organic,2023-04-11
+1889,Low Value,Email,2023-12-26
+1890,Medium Value,Paid Ads,2023-07-17
+1891,High Value,Email,2023-02-28
+1892,Bargain Hunter,Email,2023-08-11
+1893,Bargain Hunter,Email,2023-05-03
+1894,High Value,Email,2024-01-20
+1895,Low Value,Social,2024-08-02
+1896,Low Value,Organic,2023-04-24
+1897,Low Value,Paid Ads,2024-04-23
+1898,Low Value,Organic,2024-04-09
+1899,Bargain Hunter,Paid Ads,2024-03-13
+1900,Low Value,Email,2023-11-28
+1901,Medium Value,Social,2023-10-11
+1902,Low Value,Paid Ads,2023-12-07
+1903,Bargain Hunter,Paid Ads,2023-09-29
+1904,Medium Value,Organic,2023-07-25
+1905,Low Value,Organic,2024-05-18
+1906,High Value,Paid Ads,2024-03-17
+1907,Medium Value,Email,2024-03-28
+1908,Low Value,Organic,2023-03-16
+1909,High Value,Email,2024-04-01
+1910,High Value,Paid Ads,2023-01-01
+1911,Bargain Hunter,Email,2023-09-30
+1912,Medium Value,Paid Ads,2024-02-05
+1913,Low Value,Paid Ads,2024-05-17
+1914,Medium Value,Paid Ads,2023-03-13
+1915,Low Value,Organic,2024-05-08
+1916,High Value,Paid Ads,2024-01-03
+1917,Medium Value,Paid Ads,2023-02-26
+1918,Low Value,Affiliate,2023-04-03
+1919,Medium Value,Social,2023-12-15
+1920,High Value,Paid Ads,2023-10-24
+1921,Low Value,Organic,2023-02-10
+1922,Bargain Hunter,Email,2023-11-03
+1923,Low Value,Social,2024-01-03
+1924,Medium Value,Social,2024-03-24
+1925,Low Value,Organic,2023-07-17
+1926,High Value,Affiliate,2023-09-02
+1927,Medium Value,Organic,2024-07-07
+1928,Low Value,Paid Ads,2024-04-05
+1929,Bargain Hunter,Organic,2023-12-14
+1930,High Value,Social,2023-02-13
+1931,Medium Value,Organic,2024-06-19
+1932,Medium Value,Email,2024-07-03
+1933,High Value,Email,2023-03-15
+1934,High Value,Organic,2023-01-20
+1935,Medium Value,Affiliate,2023-02-16
+1936,Medium Value,Email,2023-01-15
+1937,Medium Value,Organic,2023-11-11
+1938,Low Value,Organic,2023-06-24
+1939,Low Value,Organic,2023-04-19
+1940,High Value,Email,2023-08-14
+1941,High Value,Organic,2023-12-12
+1942,Low Value,Affiliate,2024-02-16
+1943,Medium Value,Affiliate,2024-08-12
+1944,Low Value,Paid Ads,2023-08-07
+1945,Low Value,Email,2023-12-10
+1946,High Value,Paid Ads,2024-03-01
+1947,Medium Value,Paid Ads,2023-06-18
+1948,Medium Value,Affiliate,2023-02-11
+1949,High Value,Social,2024-01-21
+1950,Low Value,Organic,2024-05-13
+1951,High Value,Organic,2023-04-02
+1952,Low Value,Email,2023-10-18
+1953,Medium Value,Social,2024-05-02
+1954,Low Value,Organic,2023-10-05
+1955,Low Value,Paid Ads,2023-06-28
+1956,Low Value,Organic,2023-07-04
+1957,Low Value,Email,2023-04-01
+1958,Low Value,Social,2023-12-23
+1959,Medium Value,Email,2023-07-16
+1960,High Value,Paid Ads,2023-04-08
+1961,Low Value,Social,2024-07-06
+1962,Low Value,Paid Ads,2023-08-02
+1963,Medium Value,Organic,2023-06-02
+1964,Low Value,Affiliate,2024-04-30
+1965,Medium Value,Organic,2023-02-14
+1966,High Value,Paid Ads,2023-08-03
+1967,Medium Value,Paid Ads,2024-04-09
+1968,High Value,Email,2024-07-04
+1969,Medium Value,Social,2024-05-11
+1970,Low Value,Organic,2023-08-29
+1971,Low Value,Email,2023-11-30
+1972,Medium Value,Email,2023-11-30
+1973,Medium Value,Organic,2023-08-22
+1974,High Value,Email,2023-07-24
+1975,Medium Value,Organic,2024-04-27
+1976,Low Value,Organic,2024-03-22
+1977,High Value,Affiliate,2024-04-10
+1978,Medium Value,Paid Ads,2024-04-13
+1979,Low Value,Email,2023-10-04
+1980,Medium Value,Organic,2024-08-05
+1981,High Value,Organic,2024-04-21
+1982,Medium Value,Organic,2023-12-18
+1983,Medium Value,Paid Ads,2023-06-10
+1984,Low Value,Email,2023-06-24
+1985,Low Value,Email,2023-08-24
+1986,High Value,Social,2024-05-15
+1987,Bargain Hunter,Organic,2024-04-29
+1988,Low Value,Paid Ads,2024-03-14
+1989,Low Value,Organic,2023-12-02
+1990,Medium Value,Organic,2023-06-02
+1991,Bargain Hunter,Social,2024-03-03
+1992,Bargain Hunter,Organic,2024-04-26
+1993,Low Value,Paid Ads,2024-03-11
+1994,Low Value,Paid Ads,2023-04-11
+1995,Medium Value,Organic,2024-07-25
+1996,Low Value,Email,2024-02-21
+1997,Bargain Hunter,Organic,2023-10-30
+1998,Medium Value,Affiliate,2023-01-17
+1999,Medium Value,Paid Ads,2024-04-15
+2000,Bargain Hunter,Email,2023-01-25
+2001,Bargain Hunter,Paid Ads,2023-05-22
+2002,Bargain Hunter,Paid Ads,2024-01-15
+2003,Low Value,Email,2023-01-02
+2004,Bargain Hunter,Organic,2023-12-07
+2005,Low Value,Paid Ads,2023-10-04
+2006,Low Value,Email,2024-08-12
+2007,Low Value,Social,2023-03-24
+2008,Low Value,Paid Ads,2023-02-26
+2009,Low Value,Affiliate,2024-01-08
+2010,Bargain Hunter,Organic,2024-01-10
+2011,Medium Value,Organic,2024-01-11
+2012,Medium Value,Email,2023-03-10
+2013,Low Value,Social,2023-05-22
+2014,Bargain Hunter,Organic,2023-04-27
+2015,Low Value,Email,2024-08-17
+2016,Bargain Hunter,Email,2023-08-19
+2017,Medium Value,Social,2024-05-30
+2018,Low Value,Paid Ads,2023-03-06
+2019,Medium Value,Paid Ads,2024-05-28
+2020,Low Value,Organic,2024-06-28
+2021,Low Value,Paid Ads,2023-10-27
+2022,Medium Value,Paid Ads,2023-03-09
+2023,Medium Value,Social,2023-03-31
+2024,High Value,Social,2023-10-23
+2025,Bargain Hunter,Organic,2023-06-18
+2026,Medium Value,Email,2024-05-23
+2027,Medium Value,Organic,2023-01-24
+2028,Medium Value,Affiliate,2024-07-08
+2029,Bargain Hunter,Paid Ads,2024-03-06
+2030,Medium Value,Email,2023-10-26
+2031,Medium Value,Organic,2023-08-26
+2032,Low Value,Paid Ads,2023-12-10
+2033,Medium Value,Paid Ads,2023-12-01
+2034,Medium Value,Email,2024-06-26
+2035,Low Value,Paid Ads,2023-11-08
+2036,Low Value,Social,2023-11-10
+2037,Medium Value,Paid Ads,2024-05-10
+2038,Medium Value,Paid Ads,2023-02-18
+2039,High Value,Paid Ads,2023-06-20
+2040,Low Value,Organic,2024-07-02
+2041,Medium Value,Affiliate,2023-06-07
+2042,Medium Value,Organic,2023-11-21
+2043,Low Value,Paid Ads,2024-01-14
+2044,Medium Value,Email,2023-02-05
+2045,Low Value,Affiliate,2023-06-01
+2046,Medium Value,Paid Ads,2023-06-16
+2047,Low Value,Organic,2023-01-26
+2048,Medium Value,Paid Ads,2023-05-29
+2049,Bargain Hunter,Affiliate,2023-06-09
+2050,High Value,Email,2024-06-03
+2051,Medium Value,Email,2024-04-30
+2052,Bargain Hunter,Affiliate,2024-08-10
+2053,Low Value,Social,2024-03-28
+2054,Medium Value,Organic,2024-05-05
+2055,Bargain Hunter,Organic,2024-07-18
+2056,High Value,Organic,2023-08-14
+2057,Medium Value,Organic,2023-02-26
+2058,Low Value,Organic,2024-06-23
+2059,Medium Value,Affiliate,2023-10-12
+2060,Medium Value,Organic,2024-04-01
+2061,Low Value,Affiliate,2024-06-08
+2062,Medium Value,Paid Ads,2024-06-07
+2063,Bargain Hunter,Affiliate,2024-01-05
+2064,Medium Value,Email,2024-03-13
+2065,Medium Value,Paid Ads,2023-10-19
+2066,Medium Value,Paid Ads,2024-04-01
+2067,Bargain Hunter,Organic,2024-03-30
+2068,Low Value,Paid Ads,2024-03-29
+2069,Medium Value,Social,2024-03-10
+2070,Low Value,Paid Ads,2023-03-30
+2071,High Value,Paid Ads,2024-06-21
+2072,Bargain Hunter,Organic,2024-01-20
+2073,High Value,Paid Ads,2023-10-07
+2074,Medium Value,Email,2024-08-04
+2075,Low Value,Organic,2023-07-10
+2076,Low Value,Paid Ads,2024-05-17
+2077,High Value,Social,2024-08-22
+2078,Medium Value,Email,2024-04-19
+2079,Medium Value,Social,2023-06-07
+2080,Medium Value,Affiliate,2024-04-28
+2081,High Value,Email,2023-10-22
+2082,Medium Value,Paid Ads,2023-09-08
+2083,High Value,Social,2024-05-19
+2084,Bargain Hunter,Organic,2024-01-06
+2085,Low Value,Email,2023-09-22
+2086,Low Value,Paid Ads,2023-05-03
+2087,Medium Value,Email,2023-01-18
+2088,Low Value,Organic,2023-03-01
+2089,High Value,Paid Ads,2023-05-19
+2090,Medium Value,Organic,2024-01-05
+2091,Medium Value,Affiliate,2023-12-31
+2092,High Value,Paid Ads,2023-03-20
+2093,Low Value,Social,2023-07-07
+2094,Low Value,Email,2023-06-21
+2095,Low Value,Social,2023-11-05
+2096,Medium Value,Email,2024-01-07
+2097,High Value,Email,2023-05-28
+2098,High Value,Paid Ads,2024-01-17
+2099,Low Value,Paid Ads,2023-06-16
+2100,High Value,Organic,2023-08-15
+2101,Low Value,Social,2024-07-26
+2102,Low Value,Social,2024-06-22
+2103,Low Value,Email,2023-04-27
+2104,Medium Value,Affiliate,2023-04-30
+2105,Low Value,Affiliate,2024-05-06
+2106,Medium Value,Email,2023-05-23
+2107,Low Value,Social,2024-06-19
+2108,Low Value,Paid Ads,2023-11-08
+2109,High Value,Social,2023-08-16
+2110,High Value,Email,2023-08-21
+2111,Medium Value,Organic,2023-03-22
+2112,Medium Value,Social,2023-04-25
+2113,High Value,Social,2024-03-17
+2114,High Value,Organic,2024-06-09
+2115,Low Value,Paid Ads,2023-09-17
+2116,High Value,Paid Ads,2023-01-11
+2117,Low Value,Social,2023-07-30
+2118,Low Value,Organic,2023-12-26
+2119,High Value,Organic,2023-10-12
+2120,Bargain Hunter,Paid Ads,2023-06-14
+2121,Bargain Hunter,Social,2023-09-05
+2122,Low Value,Organic,2024-08-15
+2123,Low Value,Paid Ads,2023-07-16
+2124,Bargain Hunter,Organic,2024-07-04
+2125,High Value,Email,2023-08-08
+2126,Bargain Hunter,Social,2024-05-01
+2127,Medium Value,Email,2024-03-26
+2128,Low Value,Organic,2023-12-30
+2129,Bargain Hunter,Paid Ads,2024-06-10
+2130,Medium Value,Organic,2023-11-18
+2131,High Value,Organic,2023-05-20
+2132,Medium Value,Paid Ads,2023-10-23
+2133,Low Value,Organic,2023-12-02
+2134,Medium Value,Paid Ads,2024-04-12
+2135,Low Value,Paid Ads,2024-03-30
+2136,Medium Value,Paid Ads,2024-03-14
+2137,Medium Value,Organic,2024-05-02
+2138,Bargain Hunter,Paid Ads,2023-01-14
+2139,Bargain Hunter,Paid Ads,2023-04-18
+2140,Medium Value,Paid Ads,2023-03-29
+2141,High Value,Paid Ads,2023-04-15
+2142,Low Value,Social,2023-06-22
+2143,High Value,Affiliate,2023-12-13
+2144,Medium Value,Social,2024-02-18
+2145,High Value,Social,2024-05-26
+2146,Medium Value,Email,2024-08-18
+2147,Low Value,Social,2024-02-14
+2148,Medium Value,Email,2024-02-19
+2149,Bargain Hunter,Paid Ads,2023-05-31
+2150,Low Value,Organic,2023-09-14
+2151,Medium Value,Organic,2023-05-18
+2152,High Value,Email,2023-03-11
+2153,Medium Value,Organic,2023-07-03
+2154,Medium Value,Email,2023-06-06
+2155,Medium Value,Email,2023-03-20
+2156,Low Value,Paid Ads,2024-05-19
+2157,Low Value,Organic,2024-05-24
+2158,Medium Value,Paid Ads,2023-12-18
+2159,Low Value,Paid Ads,2023-01-19
+2160,Bargain Hunter,Organic,2024-03-16
+2161,Bargain Hunter,Organic,2024-04-05
+2162,Medium Value,Paid Ads,2024-04-15
+2163,High Value,Organic,2023-11-07
+2164,Bargain Hunter,Organic,2024-03-17
+2165,High Value,Email,2024-05-14
+2166,Low Value,Email,2024-05-17
+2167,Low Value,Email,2024-08-08
+2168,Medium Value,Email,2023-06-10
+2169,Low Value,Paid Ads,2024-05-21
+2170,Low Value,Paid Ads,2023-12-28
+2171,Low Value,Paid Ads,2023-03-04
+2172,High Value,Organic,2024-01-11
+2173,Medium Value,Email,2023-01-28
+2174,Low Value,Email,2024-01-25
+2175,High Value,Paid Ads,2024-01-01
+2176,Medium Value,Organic,2023-09-08
+2177,Medium Value,Email,2023-03-28
+2178,Bargain Hunter,Organic,2023-11-09
+2179,High Value,Organic,2024-07-05
+2180,Medium Value,Paid Ads,2024-03-08
+2181,Low Value,Affiliate,2023-10-01
+2182,High Value,Paid Ads,2023-01-23
+2183,Bargain Hunter,Paid Ads,2024-02-04
+2184,Medium Value,Organic,2024-05-15
+2185,High Value,Email,2023-12-11
+2186,Medium Value,Social,2023-12-14
+2187,Medium Value,Paid Ads,2024-03-22
+2188,Medium Value,Email,2023-03-19
+2189,Low Value,Paid Ads,2023-10-22
+2190,Medium Value,Paid Ads,2024-08-10
+2191,Medium Value,Organic,2023-04-05
+2192,Low Value,Email,2023-12-11
+2193,Medium Value,Email,2024-06-27
+2194,Medium Value,Organic,2023-03-20
+2195,Low Value,Paid Ads,2023-11-04
+2196,Medium Value,Paid Ads,2023-07-24
+2197,Medium Value,Paid Ads,2024-06-11
+2198,Medium Value,Social,2023-07-04
+2199,Bargain Hunter,Email,2024-06-12
+2200,Bargain Hunter,Email,2023-08-07
+2201,Low Value,Social,2024-04-23
+2202,Medium Value,Email,2024-03-20
+2203,Bargain Hunter,Email,2023-03-03
+2204,Low Value,Paid Ads,2023-06-01
+2205,Medium Value,Email,2023-11-04
+2206,Low Value,Paid Ads,2023-03-07
+2207,Low Value,Social,2023-10-01
+2208,Low Value,Email,2023-09-20
+2209,Low Value,Organic,2023-09-02
+2210,High Value,Organic,2023-09-09
+2211,Low Value,Paid Ads,2024-05-12
+2212,Low Value,Paid Ads,2023-02-07
+2213,Medium Value,Paid Ads,2023-01-30
+2214,Medium Value,Social,2024-07-17
+2215,Medium Value,Social,2024-05-12
+2216,Low Value,Organic,2023-03-27
+2217,Medium Value,Paid Ads,2023-03-07
+2218,Bargain Hunter,Paid Ads,2024-01-08
+2219,Low Value,Social,2024-02-11
+2220,Bargain Hunter,Email,2023-05-24
+2221,Medium Value,Email,2024-05-27
+2222,Bargain Hunter,Paid Ads,2024-08-17
+2223,Bargain Hunter,Affiliate,2023-09-15
+2224,Medium Value,Organic,2023-05-06
+2225,Low Value,Paid Ads,2024-08-21
+2226,Low Value,Social,2023-08-30
+2227,Bargain Hunter,Organic,2023-04-20
+2228,Medium Value,Affiliate,2024-03-26
+2229,Medium Value,Social,2023-02-27
+2230,Medium Value,Paid Ads,2023-04-26
+2231,Medium Value,Paid Ads,2023-09-10
+2232,Bargain Hunter,Social,2023-05-29
+2233,Medium Value,Email,2023-11-12
+2234,High Value,Affiliate,2023-02-05
+2235,Low Value,Email,2023-02-25
+2236,Low Value,Social,2023-09-03
+2237,Medium Value,Paid Ads,2024-01-07
+2238,Bargain Hunter,Email,2024-07-01
+2239,Bargain Hunter,Social,2024-02-02
+2240,High Value,Affiliate,2023-09-19
+2241,Medium Value,Affiliate,2023-08-30
+2242,Medium Value,Social,2023-06-14
+2243,Bargain Hunter,Email,2024-02-21
+2244,Low Value,Paid Ads,2023-03-24
+2245,Low Value,Affiliate,2024-04-27
+2246,Low Value,Affiliate,2023-12-07
+2247,Low Value,Social,2023-04-13
+2248,Low Value,Email,2024-06-02
+2249,High Value,Paid Ads,2024-07-14
+2250,Low Value,Paid Ads,2023-01-29
+2251,Low Value,Email,2023-07-08
+2252,Low Value,Social,2023-05-20
+2253,High Value,Organic,2023-11-09
+2254,Medium Value,Organic,2023-06-11
+2255,Medium Value,Email,2023-05-14
+2256,Low Value,Email,2023-11-24
+2257,Medium Value,Social,2023-05-17
+2258,Medium Value,Email,2023-12-02
+2259,Low Value,Organic,2024-02-29
+2260,Medium Value,Paid Ads,2024-01-22
+2261,Bargain Hunter,Social,2023-08-18
+2262,High Value,Organic,2024-07-25
+2263,Low Value,Email,2023-04-02
+2264,Bargain Hunter,Organic,2023-06-22
+2265,High Value,Email,2023-09-24
+2266,High Value,Affiliate,2023-06-24
+2267,Bargain Hunter,Organic,2024-06-22
+2268,Medium Value,Affiliate,2024-04-09
+2269,Low Value,Paid Ads,2023-08-18
+2270,Low Value,Organic,2023-09-30
+2271,Medium Value,Paid Ads,2023-05-14
+2272,Medium Value,Organic,2023-08-09
+2273,Bargain Hunter,Paid Ads,2023-07-13
+2274,Medium Value,Paid Ads,2023-05-30
+2275,High Value,Affiliate,2023-08-30
+2276,Low Value,Affiliate,2024-01-14
+2277,Low Value,Email,2023-03-29
+2278,High Value,Organic,2023-11-28
+2279,Bargain Hunter,Paid Ads,2023-08-06
+2280,Low Value,Email,2023-09-20
+2281,High Value,Email,2023-02-23
+2282,Medium Value,Organic,2023-12-29
+2283,Bargain Hunter,Affiliate,2023-02-16
+2284,High Value,Paid Ads,2024-01-26
+2285,Medium Value,Paid Ads,2024-01-15
+2286,High Value,Social,2023-02-12
+2287,Low Value,Paid Ads,2024-05-30
+2288,Medium Value,Paid Ads,2024-04-24
+2289,High Value,Paid Ads,2024-06-27
+2290,Medium Value,Paid Ads,2023-11-17
+2291,High Value,Organic,2023-10-15
+2292,Low Value,Affiliate,2023-10-17
+2293,Bargain Hunter,Paid Ads,2023-09-28
+2294,Low Value,Paid Ads,2023-06-18
+2295,Medium Value,Affiliate,2023-06-04
+2296,Low Value,Affiliate,2024-03-26
+2297,High Value,Organic,2023-08-24
+2298,Medium Value,Paid Ads,2023-06-17
+2299,Low Value,Paid Ads,2024-05-21
+2300,High Value,Paid Ads,2024-07-28
+2301,Medium Value,Paid Ads,2023-06-01
+2302,High Value,Organic,2023-10-18
+2303,Medium Value,Organic,2024-06-04
+2304,Low Value,Email,2024-08-22
+2305,Medium Value,Affiliate,2023-01-05
+2306,Low Value,Email,2024-03-02
+2307,Bargain Hunter,Organic,2024-05-25
+2308,Low Value,Social,2023-01-27
+2309,Medium Value,Affiliate,2023-05-05
+2310,Medium Value,Email,2023-04-19
+2311,Low Value,Organic,2023-03-25
+2312,Medium Value,Email,2024-05-06
+2313,Medium Value,Affiliate,2023-01-06
+2314,Medium Value,Organic,2024-04-08
+2315,Medium Value,Email,2024-08-05
+2316,High Value,Social,2023-10-17
+2317,Medium Value,Organic,2023-03-14
+2318,Low Value,Email,2023-04-05
+2319,Medium Value,Organic,2024-02-13
+2320,High Value,Social,2023-06-16
+2321,Medium Value,Paid Ads,2023-06-07
+2322,High Value,Paid Ads,2024-03-18
+2323,Low Value,Affiliate,2023-05-15
+2324,Medium Value,Organic,2024-01-12
+2325,Low Value,Paid Ads,2024-02-02
+2326,Medium Value,Email,2024-03-09
+2327,High Value,Paid Ads,2024-01-13
+2328,Low Value,Paid Ads,2024-03-12
+2329,High Value,Paid Ads,2024-04-19
+2330,Low Value,Email,2023-06-08
+2331,Bargain Hunter,Paid Ads,2024-06-21
+2332,High Value,Paid Ads,2023-03-23
+2333,Bargain Hunter,Paid Ads,2023-06-02
+2334,Bargain Hunter,Email,2023-11-04
+2335,Low Value,Paid Ads,2023-10-30
+2336,Low Value,Email,2023-02-16
+2337,Low Value,Paid Ads,2024-02-27
+2338,High Value,Email,2024-08-05
+2339,Low Value,Paid Ads,2024-08-22
+2340,High Value,Paid Ads,2023-04-27
+2341,Low Value,Paid Ads,2023-07-06
+2342,Low Value,Organic,2024-03-02
+2343,Bargain Hunter,Paid Ads,2024-04-10
+2344,Low Value,Paid Ads,2023-09-29
+2345,Medium Value,Affiliate,2023-07-11
+2346,Medium Value,Organic,2023-09-23
+2347,Bargain Hunter,Organic,2024-07-01
+2348,High Value,Paid Ads,2023-01-14
+2349,Medium Value,Paid Ads,2024-02-19
+2350,Bargain Hunter,Affiliate,2024-05-13
+2351,Medium Value,Social,2024-01-05
+2352,Low Value,Affiliate,2024-02-09
+2353,Low Value,Organic,2023-05-19
+2354,High Value,Organic,2023-01-17
+2355,Low Value,Organic,2023-01-28
+2356,Medium Value,Email,2023-09-05
+2357,Medium Value,Email,2024-07-05
+2358,Medium Value,Paid Ads,2024-04-19
+2359,High Value,Paid Ads,2023-04-30
+2360,Medium Value,Organic,2024-03-31
+2361,Bargain Hunter,Paid Ads,2024-04-05
+2362,Low Value,Organic,2024-08-06
+2363,Low Value,Paid Ads,2023-12-08
+2364,High Value,Email,2024-03-18
+2365,Bargain Hunter,Social,2024-08-15
+2366,Low Value,Email,2023-10-25
+2367,High Value,Paid Ads,2024-06-09
+2368,Low Value,Email,2024-05-14
+2369,Medium Value,Organic,2023-01-20
+2370,Medium Value,Paid Ads,2023-03-07
+2371,Medium Value,Email,2024-04-29
+2372,High Value,Email,2023-12-22
+2373,Medium Value,Paid Ads,2023-06-15
+2374,Medium Value,Organic,2023-12-19
+2375,Medium Value,Paid Ads,2023-12-14
+2376,Bargain Hunter,Social,2024-04-24
+2377,High Value,Paid Ads,2024-02-04
+2378,Bargain Hunter,Social,2024-01-04
+2379,Low Value,Social,2023-06-15
+2380,Low Value,Paid Ads,2023-03-30
+2381,Low Value,Organic,2023-07-24
+2382,Medium Value,Paid Ads,2024-03-01
+2383,Bargain Hunter,Paid Ads,2023-08-29
+2384,Medium Value,Organic,2023-01-19
+2385,Medium Value,Paid Ads,2023-06-12
+2386,Medium Value,Social,2024-05-30
+2387,High Value,Organic,2024-03-16
+2388,High Value,Organic,2024-07-29
+2389,Medium Value,Paid Ads,2023-12-15
+2390,Low Value,Social,2024-07-24
+2391,Medium Value,Organic,2024-06-11
+2392,Low Value,Organic,2023-02-21
+2393,Bargain Hunter,Paid Ads,2024-04-13
+2394,Bargain Hunter,Social,2023-04-19
+2395,Low Value,Email,2023-04-15
+2396,Low Value,Organic,2023-04-18
+2397,Medium Value,Organic,2023-07-30
+2398,Bargain Hunter,Organic,2023-10-27
+2399,Low Value,Social,2024-05-25
+2400,Low Value,Organic,2024-01-08
+2401,Medium Value,Organic,2023-07-26
+2402,Medium Value,Paid Ads,2023-01-07
+2403,Medium Value,Social,2023-12-16
+2404,Medium Value,Organic,2023-09-30
+2405,Medium Value,Social,2024-01-05
+2406,Low Value,Organic,2024-06-26
+2407,Medium Value,Organic,2024-03-15
+2408,Medium Value,Paid Ads,2024-04-14
+2409,Bargain Hunter,Paid Ads,2024-01-06
+2410,Bargain Hunter,Paid Ads,2023-01-11
+2411,Low Value,Paid Ads,2023-03-13
+2412,High Value,Paid Ads,2023-06-18
+2413,Medium Value,Paid Ads,2023-02-07
+2414,Low Value,Email,2024-08-11
+2415,High Value,Email,2024-06-16
+2416,Bargain Hunter,Paid Ads,2024-07-20
+2417,Bargain Hunter,Email,2023-11-18
+2418,Bargain Hunter,Organic,2023-10-14
+2419,Bargain Hunter,Email,2023-05-31
+2420,Low Value,Paid Ads,2023-07-30
+2421,Bargain Hunter,Email,2024-03-28
+2422,Low Value,Social,2024-02-19
+2423,Low Value,Social,2023-03-28
+2424,High Value,Paid Ads,2023-05-10
+2425,Low Value,Paid Ads,2023-08-07
+2426,High Value,Email,2024-06-17
+2427,Medium Value,Email,2023-01-24
+2428,High Value,Social,2023-09-22
+2429,Medium Value,Social,2024-03-08
+2430,Bargain Hunter,Organic,2023-03-03
+2431,Low Value,Paid Ads,2024-06-03
+2432,Medium Value,Organic,2023-05-08
+2433,Medium Value,Email,2023-01-06
+2434,Medium Value,Affiliate,2024-08-18
+2435,Low Value,Social,2024-06-30
+2436,Low Value,Organic,2023-11-03
+2437,Medium Value,Social,2024-08-09
+2438,Low Value,Email,2024-06-16
+2439,Low Value,Organic,2024-06-12
+2440,Low Value,Social,2024-01-05
+2441,Medium Value,Organic,2024-03-11
+2442,Low Value,Organic,2023-03-05
+2443,Medium Value,Organic,2023-08-08
+2444,Medium Value,Paid Ads,2024-06-22
+2445,Medium Value,Email,2024-02-09
+2446,Bargain Hunter,Email,2024-03-09
+2447,Bargain Hunter,Email,2024-05-16
+2448,Low Value,Paid Ads,2023-06-16
+2449,High Value,Organic,2024-04-13
+2450,High Value,Email,2024-06-25
+2451,High Value,Organic,2024-04-29
+2452,High Value,Organic,2024-07-26
+2453,Medium Value,Affiliate,2024-02-23
+2454,High Value,Paid Ads,2023-10-24
+2455,High Value,Organic,2024-01-16
+2456,Medium Value,Paid Ads,2023-10-29
+2457,Medium Value,Social,2023-05-26
+2458,Low Value,Paid Ads,2023-11-09
+2459,Bargain Hunter,Organic,2024-05-15
+2460,High Value,Paid Ads,2023-03-11
+2461,Bargain Hunter,Paid Ads,2024-08-09
+2462,Medium Value,Paid Ads,2023-12-12
+2463,Low Value,Paid Ads,2023-05-16
+2464,Low Value,Paid Ads,2024-04-16
+2465,Low Value,Email,2023-06-02
+2466,Bargain Hunter,Paid Ads,2024-02-24
+2467,Medium Value,Affiliate,2023-12-14
+2468,Low Value,Affiliate,2024-03-29
+2469,Low Value,Email,2023-06-19
+2470,Low Value,Email,2023-11-13
+2471,Low Value,Organic,2024-07-26
+2472,High Value,Affiliate,2024-07-08
+2473,Low Value,Organic,2024-08-06
+2474,Low Value,Social,2024-05-29
+2475,Bargain Hunter,Organic,2024-06-28
+2476,Medium Value,Organic,2023-07-30
+2477,Medium Value,Email,2024-08-16
+2478,Medium Value,Social,2023-11-25
+2479,Medium Value,Organic,2023-01-24
+2480,Medium Value,Organic,2023-01-25
+2481,Bargain Hunter,Paid Ads,2023-09-21
+2482,High Value,Affiliate,2024-07-08
+2483,Medium Value,Organic,2023-09-19
+2484,Low Value,Organic,2024-02-22
+2485,Low Value,Organic,2023-11-30
+2486,Medium Value,Email,2023-11-02
+2487,Medium Value,Paid Ads,2024-02-27
+2488,Bargain Hunter,Paid Ads,2023-05-04
+2489,High Value,Organic,2024-08-23
+2490,Medium Value,Paid Ads,2024-05-31
+2491,Medium Value,Organic,2023-03-04
+2492,Medium Value,Email,2023-03-09
+2493,Medium Value,Paid Ads,2023-08-28
+2494,Bargain Hunter,Organic,2024-07-21
+2495,Bargain Hunter,Email,2023-09-10
+2496,Low Value,Email,2023-05-09
+2497,Medium Value,Paid Ads,2023-03-27
+2498,Low Value,Paid Ads,2023-05-26
+2499,Medium Value,Affiliate,2023-09-09
+2500,Low Value,Paid Ads,2024-07-22
+2501,Medium Value,Organic,2024-04-20
+2502,Bargain Hunter,Email,2023-06-21
+2503,High Value,Affiliate,2024-05-08
+2504,Medium Value,Paid Ads,2024-01-25
+2505,Bargain Hunter,Social,2023-08-06
+2506,Low Value,Paid Ads,2023-02-16
+2507,Medium Value,Paid Ads,2023-03-13
+2508,Medium Value,Paid Ads,2023-05-06
+2509,Low Value,Email,2023-10-14
+2510,Bargain Hunter,Organic,2024-05-31
+2511,Bargain Hunter,Paid Ads,2023-12-17
+2512,Low Value,Affiliate,2024-04-08
+2513,Medium Value,Email,2023-11-26
+2514,Medium Value,Paid Ads,2023-12-03
+2515,High Value,Email,2023-01-03
+2516,Low Value,Organic,2023-01-10
+2517,Low Value,Paid Ads,2024-05-15
+2518,Low Value,Paid Ads,2023-03-21
+2519,Low Value,Social,2024-03-31
+2520,Low Value,Paid Ads,2024-01-21
+2521,Low Value,Paid Ads,2023-07-01
+2522,Low Value,Social,2023-01-09
+2523,High Value,Paid Ads,2023-07-17
+2524,Medium Value,Organic,2023-01-21
+2525,Low Value,Email,2024-01-02
+2526,Medium Value,Social,2023-11-07
+2527,Low Value,Organic,2024-05-20
+2528,Bargain Hunter,Organic,2024-05-19
+2529,Bargain Hunter,Email,2023-08-03
+2530,High Value,Affiliate,2024-02-10
+2531,High Value,Paid Ads,2024-05-27
+2532,Medium Value,Email,2024-08-02
+2533,Low Value,Email,2023-06-29
+2534,High Value,Organic,2023-03-08
+2535,High Value,Affiliate,2023-08-22
+2536,Bargain Hunter,Email,2023-10-08
+2537,Medium Value,Email,2024-06-29
+2538,Low Value,Email,2024-04-09
+2539,High Value,Paid Ads,2023-02-23
+2540,Bargain Hunter,Paid Ads,2024-02-21
+2541,Medium Value,Email,2024-04-22
+2542,Medium Value,Paid Ads,2023-02-14
+2543,Bargain Hunter,Organic,2023-10-12
+2544,Bargain Hunter,Paid Ads,2023-11-20
+2545,High Value,Organic,2023-03-25
+2546,Bargain Hunter,Social,2023-08-20
+2547,Bargain Hunter,Paid Ads,2023-03-18
+2548,Bargain Hunter,Organic,2023-12-04
+2549,Medium Value,Email,2023-04-10
+2550,High Value,Paid Ads,2023-01-25
+2551,Low Value,Email,2023-12-09
+2552,Low Value,Organic,2024-04-29
+2553,Medium Value,Paid Ads,2023-02-25
+2554,Low Value,Paid Ads,2023-08-31
+2555,Bargain Hunter,Social,2024-03-25
+2556,Low Value,Email,2024-08-15
+2557,High Value,Affiliate,2023-02-04
+2558,Medium Value,Social,2023-03-08
+2559,Low Value,Organic,2024-03-28
+2560,High Value,Email,2024-03-18
+2561,High Value,Email,2024-07-26
+2562,High Value,Social,2024-02-16
+2563,High Value,Social,2023-08-27
+2564,Bargain Hunter,Social,2023-01-11
+2565,Medium Value,Paid Ads,2024-03-14
+2566,Bargain Hunter,Email,2023-12-14
+2567,Low Value,Email,2023-01-27
+2568,Medium Value,Paid Ads,2023-07-17
+2569,High Value,Organic,2023-03-11
+2570,Low Value,Social,2024-08-09
+2571,High Value,Paid Ads,2023-12-30
+2572,Medium Value,Email,2024-03-31
+2573,Medium Value,Organic,2023-02-15
+2574,High Value,Paid Ads,2024-03-22
+2575,Low Value,Email,2024-01-02
+2576,Medium Value,Social,2023-05-30
+2577,High Value,Paid Ads,2023-12-18
+2578,Medium Value,Affiliate,2024-06-14
+2579,Low Value,Email,2023-02-28
+2580,Medium Value,Social,2024-07-26
+2581,Bargain Hunter,Paid Ads,2023-07-20
+2582,Bargain Hunter,Email,2023-07-26
+2583,Low Value,Paid Ads,2024-05-02
+2584,Low Value,Affiliate,2023-12-06
+2585,Bargain Hunter,Email,2023-12-10
+2586,Low Value,Paid Ads,2023-06-16
+2587,High Value,Social,2023-02-13
+2588,Medium Value,Affiliate,2023-08-17
+2589,Low Value,Paid Ads,2023-08-07
+2590,Medium Value,Email,2023-12-06
+2591,Low Value,Paid Ads,2024-02-14
+2592,Medium Value,Affiliate,2024-01-07
+2593,High Value,Paid Ads,2024-07-22
+2594,High Value,Paid Ads,2023-07-19
+2595,Low Value,Affiliate,2024-01-04
+2596,High Value,Organic,2023-07-22
+2597,Medium Value,Organic,2023-09-26
+2598,Low Value,Paid Ads,2024-07-21
+2599,Medium Value,Organic,2023-06-30
+2600,Low Value,Affiliate,2023-01-22
+2601,Low Value,Organic,2023-04-24
+2602,Medium Value,Organic,2024-04-12
+2603,Medium Value,Social,2023-06-25
+2604,Bargain Hunter,Affiliate,2024-03-20
+2605,Bargain Hunter,Organic,2023-05-28
+2606,Bargain Hunter,Organic,2023-07-14
+2607,Medium Value,Paid Ads,2024-01-19
+2608,Medium Value,Paid Ads,2023-09-08
+2609,Bargain Hunter,Social,2023-07-13
+2610,Bargain Hunter,Paid Ads,2023-06-02
+2611,Medium Value,Organic,2023-10-14
+2612,Bargain Hunter,Social,2024-08-21
+2613,Bargain Hunter,Organic,2023-03-25
+2614,Low Value,Social,2023-03-08
+2615,Medium Value,Paid Ads,2024-06-05
+2616,Medium Value,Paid Ads,2023-07-03
+2617,Medium Value,Paid Ads,2024-05-09
+2618,Low Value,Paid Ads,2023-10-02
+2619,Low Value,Email,2024-08-20
+2620,Low Value,Organic,2023-07-27
+2621,Medium Value,Organic,2023-08-12
+2622,Medium Value,Social,2024-08-08
+2623,Medium Value,Social,2023-09-18
+2624,Low Value,Organic,2023-03-28
+2625,Medium Value,Paid Ads,2023-08-24
+2626,Low Value,Paid Ads,2023-12-11
+2627,Medium Value,Paid Ads,2024-02-23
+2628,Medium Value,Paid Ads,2023-10-07
+2629,Medium Value,Organic,2023-08-28
+2630,Medium Value,Organic,2023-03-26
+2631,Medium Value,Paid Ads,2024-07-13
+2632,Low Value,Social,2023-08-22
+2633,High Value,Organic,2023-02-09
+2634,Low Value,Paid Ads,2023-12-04
+2635,Medium Value,Email,2023-10-09
+2636,Medium Value,Email,2023-05-22
+2637,Bargain Hunter,Social,2024-07-10
+2638,Bargain Hunter,Organic,2023-11-03
+2639,Medium Value,Paid Ads,2024-02-18
+2640,Bargain Hunter,Social,2023-01-13
+2641,Medium Value,Paid Ads,2023-06-02
+2642,Bargain Hunter,Organic,2023-08-03
+2643,Medium Value,Paid Ads,2024-07-19
+2644,Low Value,Email,2024-04-17
+2645,Medium Value,Organic,2023-07-12
+2646,Medium Value,Affiliate,2024-03-03
+2647,Medium Value,Paid Ads,2024-07-25
+2648,High Value,Organic,2023-05-12
+2649,Medium Value,Email,2024-05-26
+2650,Low Value,Social,2023-12-14
+2651,Medium Value,Paid Ads,2024-02-18
+2652,Low Value,Email,2023-11-03
+2653,Medium Value,Organic,2023-02-02
+2654,Bargain Hunter,Organic,2023-12-05
+2655,Low Value,Social,2024-08-10
+2656,Bargain Hunter,Affiliate,2023-07-29
+2657,Bargain Hunter,Organic,2024-01-31
+2658,Medium Value,Organic,2024-08-06
+2659,Bargain Hunter,Email,2023-11-08
+2660,High Value,Organic,2024-07-20
+2661,Medium Value,Social,2024-05-15
+2662,High Value,Organic,2024-01-31
+2663,Medium Value,Organic,2024-06-20
+2664,High Value,Organic,2024-06-14
+2665,High Value,Paid Ads,2024-02-25
+2666,Medium Value,Affiliate,2023-05-13
+2667,Low Value,Paid Ads,2023-03-12
+2668,Medium Value,Affiliate,2023-07-31
+2669,High Value,Organic,2024-03-18
+2670,Low Value,Email,2023-06-12
+2671,Low Value,Affiliate,2023-07-27
+2672,Low Value,Email,2023-10-10
+2673,Medium Value,Affiliate,2024-04-01
+2674,High Value,Paid Ads,2023-09-10
+2675,Low Value,Affiliate,2024-05-17
+2676,Medium Value,Email,2023-04-04
+2677,Medium Value,Social,2024-04-12
+2678,Medium Value,Social,2023-11-01
+2679,Medium Value,Social,2023-06-29
+2680,Medium Value,Organic,2024-03-18
+2681,Medium Value,Affiliate,2023-07-07
+2682,Low Value,Organic,2023-02-14
+2683,Medium Value,Social,2023-10-08
+2684,Bargain Hunter,Paid Ads,2023-03-10
+2685,Low Value,Email,2023-08-11
+2686,Bargain Hunter,Paid Ads,2024-07-20
+2687,High Value,Paid Ads,2023-04-18
+2688,Low Value,Social,2024-02-24
+2689,Medium Value,Paid Ads,2024-06-02
+2690,High Value,Organic,2024-04-17
+2691,Medium Value,Email,2023-07-19
+2692,Medium Value,Organic,2023-04-28
+2693,Low Value,Organic,2024-04-20
+2694,Medium Value,Organic,2024-07-15
+2695,Low Value,Email,2024-03-24
+2696,High Value,Social,2023-06-15
+2697,Medium Value,Organic,2023-04-13
+2698,Medium Value,Organic,2024-02-05
+2699,Medium Value,Email,2023-01-12
+2700,Low Value,Organic,2024-01-02
+2701,Medium Value,Email,2024-06-29
+2702,Medium Value,Email,2024-06-19
+2703,Low Value,Email,2023-04-16
+2704,Medium Value,Paid Ads,2023-02-23
+2705,Low Value,Organic,2024-01-22
+2706,Low Value,Affiliate,2024-01-19
+2707,Bargain Hunter,Organic,2023-01-17
+2708,Medium Value,Affiliate,2023-12-12
+2709,Low Value,Email,2023-03-06
+2710,Medium Value,Social,2023-06-21
+2711,Low Value,Organic,2024-06-08
+2712,High Value,Paid Ads,2024-07-29
+2713,Low Value,Email,2024-07-08
+2714,Medium Value,Paid Ads,2023-08-26
+2715,Medium Value,Paid Ads,2023-06-27
+2716,High Value,Email,2023-01-13
+2717,Medium Value,Paid Ads,2023-03-09
+2718,Low Value,Paid Ads,2024-01-13
+2719,High Value,Social,2024-02-25
+2720,Medium Value,Email,2023-04-15
+2721,Low Value,Social,2024-08-05
+2722,Medium Value,Affiliate,2023-11-29
+2723,Bargain Hunter,Email,2023-05-17
+2724,Medium Value,Email,2023-11-22
+2725,Bargain Hunter,Email,2023-03-11
+2726,Medium Value,Email,2024-08-22
+2727,Medium Value,Paid Ads,2023-08-27
+2728,Low Value,Email,2023-01-14
+2729,Medium Value,Email,2023-05-08
+2730,Medium Value,Email,2023-09-07
+2731,Low Value,Organic,2024-01-19
+2732,Medium Value,Organic,2024-01-20
+2733,Medium Value,Organic,2024-03-30
+2734,Low Value,Paid Ads,2023-10-12
+2735,Medium Value,Social,2023-02-10
+2736,Low Value,Affiliate,2023-10-23
+2737,Low Value,Organic,2023-12-06
+2738,Medium Value,Organic,2023-02-25
+2739,Bargain Hunter,Email,2023-09-12
+2740,Low Value,Email,2023-08-16
+2741,Low Value,Paid Ads,2023-11-26
+2742,Medium Value,Email,2023-03-08
+2743,Bargain Hunter,Organic,2023-07-17
+2744,High Value,Affiliate,2023-07-29
+2745,High Value,Organic,2024-07-16
+2746,Low Value,Affiliate,2023-08-30
+2747,Low Value,Paid Ads,2024-04-23
+2748,Medium Value,Email,2023-09-08
+2749,Medium Value,Email,2023-11-07
+2750,Medium Value,Paid Ads,2023-07-26
+2751,Medium Value,Social,2023-03-23
+2752,Bargain Hunter,Paid Ads,2024-01-22
+2753,Medium Value,Paid Ads,2024-06-01
+2754,Low Value,Paid Ads,2023-06-09
+2755,Low Value,Social,2023-01-21
+2756,Low Value,Paid Ads,2023-03-27
+2757,Low Value,Affiliate,2024-07-04
+2758,Medium Value,Email,2023-09-21
+2759,Medium Value,Paid Ads,2023-10-18
+2760,Medium Value,Email,2023-03-15
+2761,Medium Value,Email,2023-07-20
+2762,Medium Value,Organic,2023-01-14
+2763,Bargain Hunter,Email,2024-01-19
+2764,Medium Value,Affiliate,2024-02-09
+2765,Bargain Hunter,Paid Ads,2024-05-16
+2766,Medium Value,Affiliate,2023-03-14
+2767,Medium Value,Organic,2023-05-08
+2768,Medium Value,Email,2023-07-18
+2769,Low Value,Affiliate,2023-12-23
+2770,Low Value,Paid Ads,2024-01-13
+2771,Low Value,Email,2024-03-10
+2772,Low Value,Organic,2023-02-05
+2773,Bargain Hunter,Paid Ads,2023-01-29
+2774,Low Value,Email,2023-09-25
+2775,Low Value,Affiliate,2023-05-31
+2776,Medium Value,Email,2023-06-15
+2777,High Value,Social,2024-01-29
+2778,Medium Value,Email,2023-03-24
+2779,Low Value,Organic,2024-03-09
+2780,Medium Value,Paid Ads,2023-11-06
+2781,Low Value,Paid Ads,2024-01-27
+2782,Low Value,Email,2023-04-02
+2783,High Value,Email,2023-12-19
+2784,Low Value,Paid Ads,2023-08-03
+2785,Bargain Hunter,Paid Ads,2023-11-12
+2786,High Value,Organic,2024-05-18
+2787,High Value,Organic,2024-03-03
+2788,Low Value,Email,2024-03-17
+2789,Medium Value,Paid Ads,2023-05-18
+2790,Medium Value,Organic,2023-04-23
+2791,Medium Value,Social,2023-07-10
+2792,Medium Value,Email,2023-07-16
+2793,Medium Value,Affiliate,2024-02-23
+2794,Medium Value,Affiliate,2023-04-22
+2795,Bargain Hunter,Organic,2023-10-28
+2796,High Value,Organic,2023-03-07
+2797,Medium Value,Email,2024-05-04
+2798,Medium Value,Social,2023-01-10
+2799,High Value,Social,2023-01-08
+2800,Low Value,Social,2023-02-12
+2801,High Value,Paid Ads,2023-01-08
+2802,Medium Value,Paid Ads,2023-09-30
+2803,Bargain Hunter,Paid Ads,2023-12-12
+2804,Low Value,Paid Ads,2023-12-18
+2805,Bargain Hunter,Social,2024-01-05
+2806,Low Value,Paid Ads,2023-02-28
+2807,Bargain Hunter,Social,2023-04-13
+2808,High Value,Social,2024-02-16
+2809,Low Value,Social,2023-05-23
+2810,High Value,Organic,2024-06-27
+2811,Medium Value,Email,2023-09-12
+2812,Medium Value,Email,2024-05-01
+2813,Low Value,Email,2023-01-04
+2814,Bargain Hunter,Affiliate,2023-11-26
+2815,High Value,Paid Ads,2023-02-16
+2816,Bargain Hunter,Email,2024-03-30
+2817,Medium Value,Paid Ads,2023-03-25
+2818,Medium Value,Affiliate,2024-05-02
+2819,Bargain Hunter,Social,2023-04-13
+2820,Low Value,Paid Ads,2023-07-19
+2821,Low Value,Social,2024-08-08
+2822,Low Value,Email,2023-02-02
+2823,High Value,Social,2023-11-05
+2824,Low Value,Affiliate,2024-04-23
+2825,Medium Value,Paid Ads,2023-04-29
+2826,Medium Value,Paid Ads,2023-09-07
+2827,Medium Value,Social,2023-04-02
+2828,High Value,Affiliate,2023-01-30
+2829,Medium Value,Affiliate,2024-01-28
+2830,Low Value,Organic,2023-09-21
+2831,Low Value,Affiliate,2023-05-07
+2832,Low Value,Affiliate,2024-05-18
+2833,High Value,Email,2023-08-18
+2834,Bargain Hunter,Social,2023-03-08
+2835,Low Value,Paid Ads,2024-01-26
+2836,Low Value,Social,2024-03-23
+2837,Low Value,Organic,2023-04-29
+2838,Medium Value,Organic,2023-12-15
+2839,Low Value,Affiliate,2023-04-29
+2840,Low Value,Organic,2023-11-17
+2841,Bargain Hunter,Email,2023-01-02
+2842,Medium Value,Email,2023-07-14
+2843,Low Value,Affiliate,2023-11-24
+2844,Low Value,Social,2023-05-10
+2845,Low Value,Email,2023-08-16
+2846,High Value,Organic,2024-04-16
+2847,Medium Value,Social,2023-10-31
+2848,Low Value,Paid Ads,2024-04-11
+2849,High Value,Paid Ads,2023-02-05
+2850,Low Value,Paid Ads,2023-05-07
+2851,Medium Value,Social,2024-08-10
+2852,Medium Value,Social,2024-05-21
+2853,Medium Value,Affiliate,2023-03-02
+2854,Bargain Hunter,Paid Ads,2023-08-04
+2855,Low Value,Affiliate,2023-08-19
+2856,Low Value,Organic,2023-07-03
+2857,Bargain Hunter,Email,2023-11-03
+2858,Bargain Hunter,Email,2023-06-13
+2859,Bargain Hunter,Paid Ads,2023-12-12
+2860,Medium Value,Paid Ads,2023-12-23
+2861,Low Value,Paid Ads,2024-06-24
+2862,Low Value,Paid Ads,2023-07-19
+2863,Low Value,Paid Ads,2023-04-10
+2864,High Value,Social,2024-08-17
+2865,Bargain Hunter,Organic,2023-11-08
+2866,Medium Value,Organic,2023-05-21
+2867,Medium Value,Paid Ads,2023-05-29
+2868,Medium Value,Social,2023-07-20
+2869,Low Value,Organic,2024-08-12
+2870,High Value,Social,2023-06-01
+2871,Medium Value,Affiliate,2023-06-22
+2872,Bargain Hunter,Organic,2024-04-30
+2873,Medium Value,Organic,2024-06-11
+2874,Low Value,Email,2023-06-02
+2875,Low Value,Paid Ads,2023-02-04
+2876,High Value,Paid Ads,2023-11-06
+2877,Low Value,Affiliate,2024-01-20
+2878,Low Value,Affiliate,2023-04-02
+2879,Low Value,Social,2024-01-27
+2880,Medium Value,Email,2024-01-12
+2881,High Value,Organic,2023-05-05
+2882,Medium Value,Email,2024-06-05
+2883,Medium Value,Email,2024-08-09
+2884,Medium Value,Email,2023-04-07
+2885,Low Value,Organic,2024-05-10
+2886,Bargain Hunter,Email,2023-11-02
+2887,Low Value,Organic,2023-03-07
+2888,Low Value,Social,2024-07-04
+2889,Medium Value,Social,2023-01-21
+2890,Medium Value,Social,2024-06-26
+2891,Medium Value,Paid Ads,2024-08-21
+2892,Low Value,Social,2023-05-08
+2893,Low Value,Organic,2023-05-01
+2894,Medium Value,Email,2023-07-04
+2895,High Value,Paid Ads,2023-11-18
+2896,High Value,Organic,2023-07-31
+2897,Low Value,Organic,2023-09-20
+2898,Bargain Hunter,Organic,2023-05-08
+2899,Low Value,Paid Ads,2024-07-11
+2900,Medium Value,Affiliate,2023-01-01
+2901,Medium Value,Organic,2024-06-15
+2902,Bargain Hunter,Paid Ads,2024-06-30
+2903,Medium Value,Email,2023-11-17
+2904,Low Value,Affiliate,2023-12-27
+2905,Low Value,Paid Ads,2023-04-12
+2906,Low Value,Organic,2023-02-07
+2907,Medium Value,Paid Ads,2023-08-09
+2908,Bargain Hunter,Email,2023-08-10
+2909,Low Value,Paid Ads,2024-03-08
+2910,High Value,Paid Ads,2024-01-26
+2911,Low Value,Organic,2024-04-12
+2912,High Value,Paid Ads,2024-03-11
+2913,Bargain Hunter,Organic,2023-07-28
+2914,High Value,Email,2023-07-17
+2915,Low Value,Email,2024-06-07
+2916,Low Value,Paid Ads,2023-06-07
+2917,Medium Value,Social,2024-01-24
+2918,High Value,Email,2023-03-21
+2919,Medium Value,Paid Ads,2024-07-15
+2920,Medium Value,Paid Ads,2023-04-02
+2921,Medium Value,Paid Ads,2023-10-07
+2922,High Value,Social,2023-10-08
+2923,High Value,Paid Ads,2023-08-16
+2924,Medium Value,Organic,2023-05-07
+2925,Medium Value,Email,2023-11-10
+2926,Low Value,Social,2023-04-08
+2927,Low Value,Email,2023-10-16
+2928,Low Value,Email,2023-02-19
+2929,Medium Value,Affiliate,2024-02-03
+2930,Medium Value,Social,2024-06-28
+2931,Low Value,Social,2024-02-17
+2932,Medium Value,Organic,2023-01-10
+2933,Low Value,Email,2023-05-10
+2934,High Value,Email,2023-10-01
+2935,High Value,Email,2024-01-15
+2936,Low Value,Organic,2024-03-04
+2937,Low Value,Organic,2023-12-29
+2938,Low Value,Paid Ads,2023-10-10
+2939,Bargain Hunter,Paid Ads,2023-08-23
+2940,Medium Value,Social,2023-11-09
+2941,Medium Value,Paid Ads,2023-04-03
+2942,Low Value,Organic,2023-09-03
+2943,Bargain Hunter,Organic,2023-02-28
+2944,High Value,Paid Ads,2024-05-19
+2945,Low Value,Organic,2024-03-10
+2946,Low Value,Affiliate,2023-05-20
+2947,Medium Value,Paid Ads,2024-06-29
+2948,Low Value,Paid Ads,2023-07-14
+2949,Bargain Hunter,Email,2024-03-11
+2950,Low Value,Email,2023-09-08
+2951,Bargain Hunter,Email,2024-06-24
+2952,Low Value,Organic,2024-04-04
+2953,Bargain Hunter,Email,2024-06-20
+2954,Bargain Hunter,Organic,2024-01-11
+2955,Low Value,Paid Ads,2023-02-22
+2956,Medium Value,Paid Ads,2024-01-18
+2957,Bargain Hunter,Paid Ads,2023-09-13
+2958,Low Value,Social,2023-05-01
+2959,Medium Value,Paid Ads,2023-09-29
+2960,Medium Value,Email,2024-08-05
+2961,Medium Value,Affiliate,2024-06-11
+2962,Low Value,Organic,2024-04-19
+2963,Bargain Hunter,Social,2023-02-28
+2964,Medium Value,Email,2023-12-03
+2965,Medium Value,Organic,2023-12-25
+2966,Bargain Hunter,Organic,2023-12-30
+2967,High Value,Paid Ads,2023-07-22
+2968,High Value,Paid Ads,2023-06-07
+2969,Medium Value,Affiliate,2023-01-08
+2970,Medium Value,Email,2023-08-20
+2971,Medium Value,Paid Ads,2024-01-09
+2972,Medium Value,Organic,2023-10-03
+2973,High Value,Paid Ads,2024-03-25
+2974,Medium Value,Paid Ads,2024-03-20
+2975,High Value,Social,2023-07-23
+2976,High Value,Paid Ads,2023-05-17
+2977,Medium Value,Email,2023-02-02
+2978,Medium Value,Organic,2024-05-05
+2979,Bargain Hunter,Affiliate,2023-05-02
+2980,Medium Value,Email,2023-05-11
+2981,Medium Value,Social,2024-02-14
+2982,Low Value,Affiliate,2024-02-03
+2983,High Value,Affiliate,2023-01-22
+2984,High Value,Paid Ads,2023-01-14
+2985,Low Value,Organic,2023-12-17
+2986,Medium Value,Email,2023-01-09
+2987,Medium Value,Paid Ads,2024-05-12
+2988,High Value,Paid Ads,2023-06-06
+2989,Low Value,Organic,2023-10-15
+2990,Low Value,Social,2023-09-11
+2991,Low Value,Paid Ads,2024-04-30
+2992,Low Value,Social,2024-05-29
+2993,Low Value,Organic,2023-06-02
+2994,Medium Value,Organic,2023-02-09
+2995,Medium Value,Organic,2023-05-30
+2996,Medium Value,Email,2023-04-04
+2997,Bargain Hunter,Paid Ads,2024-06-21
+2998,Medium Value,Email,2023-08-25
+2999,Medium Value,Paid Ads,2023-03-04
+3000,Low Value,Email,2023-11-08
